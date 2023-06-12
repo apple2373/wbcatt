@@ -11,6 +11,9 @@ description: |
 license:
   - @rdf:about: MIT License
 
+@dct:source: 
+  The dataset is derived from the microscopic peripheral blood cell dataset , originally published by A. Acevedo, A. Merino and S. Alférez et al. in 2020. The dataset can be found at https://data.mendeley.com/datasets/snkd93bnjr/draft?a= d9582c71- 9af0- 4e59- 9062- df30df05a121.
+
 @dcat:contactPoint:
   - @vcard:Email: satoshi.tsutsui@ntu.edu.sg
   - @vcard:Email: winnie.pang@ntu.edu.sg
