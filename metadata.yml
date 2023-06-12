@@ -1,0 +1,22 @@
+@dcat:dataset
+title: WBCAtt: A White Blood Cell Dataset Annotated with Detailed Morphological Attributes
+description: |
+  This dataset contains detailed annotations of 11 morphological attributes for each of the 10k microscopic images of White Blood Cells.
+
+@dcat:keyword:
+  - White Blood Cells
+  - Morphological attributes
+  - Explainable AI
+
+license:
+  - @rdf:about: MIT License
+
+@dcat:contactPoint:
+  - @vcard:Email: satoshi.tsutsui@ntu.edu.sg
+  - @vcard:Email: winnie.pang@ntu.edu.sg
+
+@dcat:distribution:
+  - @dcat:Distribution:
+      @dct:title: Attribute Annotation Dataset
+      @dcat:mediaType: text/csv
+      @dcat:accessURL: https://github.com/apple2373/wbcatt
