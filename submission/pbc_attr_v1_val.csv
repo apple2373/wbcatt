@@ -1,0 +1,1031 @@
+img_name,label,cell_size,cell_shape,nucleus_shape,nuclear_cytoplasmic_ratio,chromatin_density,cytoplasm_vacuole,cytoplasm_texture,cytoplasm_colour,granule_type,granule_colour,granularity,path
+BNE_422954.jpg,Neutrophil,small,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/BNE_422954.jpg
+LY_883318.jpg,Lymphocyte,small,irregular,irregular,high,densely,no,frosted,purple blue,nil,nil,no,PBC_dataset_normal_DIB/lymphocyte/LY_883318.jpg
+MO_173558.jpg,Monocyte,big,irregular,irregular,low,loosely,yes,clear,light blue,nil,nil,no,PBC_dataset_normal_DIB/monocyte/MO_173558.jpg
+EO_31665.jpg,Eosinophil,big,round,segmented-multilobed,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_31665.jpg
+EO_652701.jpg,Eosinophil,big,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_652701.jpg
+EO_128458.jpg,Eosinophil,big,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_128458.jpg
+EO_530891.jpg,Eosinophil,small,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_530891.jpg
+LY_550491.jpg,Lymphocyte,small,round,unsegmented-round,high,densely,no,clear,blue,nil,nil,no,PBC_dataset_normal_DIB/lymphocyte/LY_550491.jpg
+SNE_994402.jpg,Neutrophil,big,irregular,segmented-bilobed,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/SNE_994402.jpg
+MO_187322.jpg,Monocyte,big,irregular,unsegmented-indented,low,loosely,yes,clear,blue,nil,nil,no,PBC_dataset_normal_DIB/monocyte/MO_187322.jpg
+LY_517156.jpg,Lymphocyte,small,round,unsegmented-round,high,densely,no,frosted,blue,nil,nil,no,PBC_dataset_normal_DIB/lymphocyte/LY_517156.jpg
+EO_645275.jpg,Eosinophil,small,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_645275.jpg
+SNE_819515.jpg,Neutrophil,big,irregular,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/SNE_819515.jpg
+EO_378650.jpg,Eosinophil,big,round,segmented-multilobed,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_378650.jpg
+MO_913613.jpg,Monocyte,big,round,unsegmented-indented,low,densely,no,frosted,purple blue,nil,nil,no,PBC_dataset_normal_DIB/monocyte/MO_913613.jpg
+BNE_147698.jpg,Neutrophil,big,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/BNE_147698.jpg
+SNE_56069.jpg,Neutrophil,big,irregular,segmented-bilobed,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/SNE_56069.jpg
+EO_670082.jpg,Eosinophil,big,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_670082.jpg
+SNE_183790.jpg,Neutrophil,big,irregular,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/SNE_183790.jpg
+MO_283783.jpg,Monocyte,big,irregular,unsegmented-round,low,loosely,yes,frosted,light blue,nil,nil,no,PBC_dataset_normal_DIB/monocyte/MO_283783.jpg
+BNE_863887.jpg,Neutrophil,big,irregular,irregular,low,densely,no,clear,light blue,small,purple,yes,PBC_dataset_normal_DIB/neutrophil/BNE_863887.jpg
+BNE_6074.jpg,Neutrophil,big,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/BNE_6074.jpg
+MO_96000.jpg,Monocyte,big,irregular,unsegmented-indented,high,densely,yes,frosted,purple blue,nil,nil,no,PBC_dataset_normal_DIB/monocyte/MO_96000.jpg
+BA_767164.jpg,Basophil,small,round,irregular,low,densely,no,clear,light blue,coarse,purple,yes,PBC_dataset_normal_DIB/basophil/BA_767164.jpg
+EO_560727.jpg,Eosinophil,big,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_560727.jpg
+BA_434177.jpg,Basophil,big,round,segmented-multilobed,low,densely,no,clear,light blue,coarse,purple,yes,PBC_dataset_normal_DIB/basophil/BA_434177.jpg
+EO_340201.jpg,Eosinophil,big,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_340201.jpg
+EO_993513.jpg,Eosinophil,big,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_993513.jpg
+EO_487653.jpg,Eosinophil,big,round,segmented-multilobed,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_487653.jpg
+EO_331664.jpg,Eosinophil,small,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_331664.jpg
+MO_399159.jpg,Monocyte,big,irregular,unsegmented-indented,low,loosely,yes,frosted,purple blue,nil,nil,no,PBC_dataset_normal_DIB/monocyte/MO_399159.jpg
+EO_739713.jpg,Eosinophil,big,irregular,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_739713.jpg
+BNE_850956.jpg,Neutrophil,small,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/BNE_850956.jpg
+EO_458873.jpg,Eosinophil,small,round,segmented-multilobed,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_458873.jpg
+EO_637980.jpg,Eosinophil,small,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_637980.jpg
+LY_44395.jpg,Lymphocyte,small,round,unsegmented-round,high,densely,no,clear,blue,nil,nil,no,PBC_dataset_normal_DIB/lymphocyte/LY_44395.jpg
+EO_217076.jpg,Eosinophil,big,round,segmented-multilobed,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_217076.jpg
+BA_68896.jpg,Basophil,small,round,segmented-bilobed,low,densely,no,clear,light blue,coarse,purple,yes,PBC_dataset_normal_DIB/basophil/BA_68896.jpg
+SNE_223437.jpg,Neutrophil,big,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/SNE_223437.jpg
+MO_113841.jpg,Monocyte,small,irregular,unsegmented-indented,low,loosely,no,frosted,blue,nil,nil,no,PBC_dataset_normal_DIB/monocyte/MO_113841.jpg
+SNE_491948.jpg,Neutrophil,big,round,segmented-bilobed,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/SNE_491948.jpg
+SNE_614953.jpg,Neutrophil,small,round,segmented-bilobed,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/SNE_614953.jpg
+SNE_352995.jpg,Neutrophil,big,round,segmented-bilobed,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/SNE_352995.jpg
+BNE_195004.jpg,Neutrophil,big,irregular,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/BNE_195004.jpg
+EO_323058.jpg,Eosinophil,small,round,segmented-multilobed,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_323058.jpg
+BA_35991.jpg,Basophil,big,round,irregular,low,densely,no,clear,light blue,coarse,purple,yes,PBC_dataset_normal_DIB/basophil/BA_35991.jpg
+SNE_401509.jpg,Neutrophil,big,irregular,segmented-bilobed,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/SNE_401509.jpg
+EO_949664.jpg,Eosinophil,big,irregular,segmented-bilobed,low,densely,yes,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_949664.jpg
+MO_429133.jpg,Monocyte,big,round,unsegmented-indented,low,loosely,no,frosted,purple blue,nil,nil,no,PBC_dataset_normal_DIB/monocyte/MO_429133.jpg
+SNE_248543.jpg,Neutrophil,big,round,segmented-bilobed,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/SNE_248543.jpg
+SNE_142694.jpg,Neutrophil,big,irregular,segmented-bilobed,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/SNE_142694.jpg
+SNE_289676.jpg,Neutrophil,big,round,segmented-bilobed,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/SNE_289676.jpg
+SNE_47527.jpg,Neutrophil,small,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/SNE_47527.jpg
+MO_142497.jpg,Monocyte,big,round,unsegmented-indented,low,loosely,no,clear,blue,nil,nil,no,PBC_dataset_normal_DIB/monocyte/MO_142497.jpg
+EO_893709.jpg,Eosinophil,big,round,unsegmented-band,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_893709.jpg
+MO_266780.jpg,Monocyte,big,round,unsegmented-indented,low,loosely,no,frosted,purple blue,nil,nil,no,PBC_dataset_normal_DIB/monocyte/MO_266780.jpg
+EO_432100.jpg,Eosinophil,big,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_432100.jpg
+MO_256427.jpg,Monocyte,big,round,unsegmented-indented,low,loosely,yes,frosted,blue,nil,nil,no,PBC_dataset_normal_DIB/monocyte/MO_256427.jpg
+LY_209350.jpg,Lymphocyte,small,irregular,irregular,high,densely,no,clear,purple blue,nil,nil,no,PBC_dataset_normal_DIB/lymphocyte/LY_209350.jpg
+LY_249223.jpg,Lymphocyte,small,round,unsegmented-round,high,densely,no,frosted,blue,nil,nil,no,PBC_dataset_normal_DIB/lymphocyte/LY_249223.jpg
+MO_663123.jpg,Monocyte,big,round,unsegmented-indented,low,densely,no,frosted,purple blue,nil,nil,no,PBC_dataset_normal_DIB/monocyte/MO_663123.jpg
+EO_726052.jpg,Eosinophil,big,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_726052.jpg
+BNE_951529.jpg,Neutrophil,big,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/BNE_951529.jpg
+SNE_719631.jpg,Neutrophil,big,irregular,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/SNE_719631.jpg
+SNE_730423.jpg,Neutrophil,big,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/SNE_730423.jpg
+BNE_956597.jpg,Neutrophil,big,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/BNE_956597.jpg
+EO_210086.jpg,Eosinophil,big,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_210086.jpg
+MO_446865.jpg,Monocyte,big,irregular,irregular,low,loosely,yes,frosted,blue,nil,nil,no,PBC_dataset_normal_DIB/monocyte/MO_446865.jpg
+EO_123704.jpg,Eosinophil,big,round,segmented-multilobed,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_123704.jpg
+BNE_577568.jpg,Neutrophil,big,irregular,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/BNE_577568.jpg
+MO_94561.jpg,Monocyte,big,round,unsegmented-indented,low,densely,no,clear,light blue,nil,nil,no,PBC_dataset_normal_DIB/monocyte/MO_94561.jpg
+MO_240882.jpg,Monocyte,big,round,unsegmented-indented,low,loosely,yes,clear,purple blue,nil,nil,no,PBC_dataset_normal_DIB/monocyte/MO_240882.jpg
+LY_179236.jpg,Lymphocyte,small,round,unsegmented-round,high,densely,no,frosted,blue,nil,nil,no,PBC_dataset_normal_DIB/lymphocyte/LY_179236.jpg
+BNE_659706.jpg,Neutrophil,small,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/BNE_659706.jpg
+SNE_630026.jpg,Neutrophil,small,round,segmented-multilobed,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/SNE_630026.jpg
+EO_13364.jpg,Eosinophil,small,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_13364.jpg
+MO_553342.jpg,Monocyte,big,irregular,unsegmented-indented,low,loosely,yes,frosted,purple blue,nil,nil,no,PBC_dataset_normal_DIB/monocyte/MO_553342.jpg
+BNE_340725.jpg,Neutrophil,big,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/BNE_340725.jpg
+EO_729891.jpg,Eosinophil,big,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_729891.jpg
+EO_274574.jpg,Eosinophil,big,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_274574.jpg
+MO_245773.jpg,Monocyte,big,round,unsegmented-indented,low,densely,yes,frosted,purple blue,nil,nil,no,PBC_dataset_normal_DIB/monocyte/MO_245773.jpg
+EO_376623.jpg,Eosinophil,small,round,segmented-multilobed,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_376623.jpg
+MO_794687.jpg,Monocyte,big,round,unsegmented-indented,low,densely,no,frosted,purple blue,nil,nil,no,PBC_dataset_normal_DIB/monocyte/MO_794687.jpg
+MO_453943.jpg,Monocyte,big,irregular,unsegmented-indented,low,loosely,no,frosted,blue,nil,nil,no,PBC_dataset_normal_DIB/monocyte/MO_453943.jpg
+EO_783793.jpg,Eosinophil,big,round,unsegmented-band,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_783793.jpg
+SNE_968296.jpg,Neutrophil,small,round,unsegmented-band,low,densely,no,clear,light blue,small,purple,yes,PBC_dataset_normal_DIB/neutrophil/SNE_968296.jpg
+MO_479584.jpg,Monocyte,big,irregular,unsegmented-indented,low,loosely,no,frosted,blue,nil,nil,no,PBC_dataset_normal_DIB/monocyte/MO_479584.jpg
+SNE_26596.jpg,Neutrophil,small,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/SNE_26596.jpg
+EO_901254.jpg,Eosinophil,big,round,segmented-multilobed,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_901254.jpg
+SNE_937806.jpg,Neutrophil,small,round,segmented-bilobed,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/SNE_937806.jpg
+SNE_745431.jpg,Neutrophil,big,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/SNE_745431.jpg
+MO_437529.jpg,Monocyte,big,irregular,unsegmented-indented,low,loosely,yes,frosted,purple blue,nil,nil,no,PBC_dataset_normal_DIB/monocyte/MO_437529.jpg
+EO_333432.jpg,Eosinophil,small,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_333432.jpg
+EO_377830.jpg,Eosinophil,small,round,segmented-multilobed,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_377830.jpg
+BNE_556405.jpg,Neutrophil,big,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/BNE_556405.jpg
+MO_635770.jpg,Monocyte,big,round,unsegmented-indented,low,loosely,no,frosted,blue,nil,nil,no,PBC_dataset_normal_DIB/monocyte/MO_635770.jpg
+EO_914393.jpg,Eosinophil,small,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_914393.jpg
+EO_105120.jpg,Eosinophil,small,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_105120.jpg
+MO_311939.jpg,Monocyte,big,round,unsegmented-indented,low,loosely,no,frosted,blue,nil,nil,no,PBC_dataset_normal_DIB/monocyte/MO_311939.jpg
+LY_526858.jpg,Lymphocyte,small,round,unsegmented-round,high,densely,no,frosted,blue,nil,nil,no,PBC_dataset_normal_DIB/lymphocyte/LY_526858.jpg
+EO_141524.jpg,Eosinophil,big,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_141524.jpg
+SNE_918028.jpg,Neutrophil,big,irregular,segmented-bilobed,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/SNE_918028.jpg
+EO_553112.jpg,Eosinophil,big,irregular,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_553112.jpg
+LY_75762.jpg,Lymphocyte,small,irregular,unsegmented-round,high,densely,no,frosted,purple blue,nil,nil,no,PBC_dataset_normal_DIB/lymphocyte/LY_75762.jpg
+LY_106354.jpg,Lymphocyte,small,round,unsegmented-round,high,densely,no,clear,blue,nil,nil,no,PBC_dataset_normal_DIB/lymphocyte/LY_106354.jpg
+EO_834382.jpg,Eosinophil,big,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_834382.jpg
+SNE_358297.jpg,Neutrophil,small,round,segmented-bilobed,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/SNE_358297.jpg
+BNE_44826.jpg,Neutrophil,small,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/BNE_44826.jpg
+EO_906650.jpg,Eosinophil,big,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_906650.jpg
+BNE_928577.jpg,Neutrophil,small,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/BNE_928577.jpg
+EO_333712.jpg,Eosinophil,small,round,segmented-multilobed,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_333712.jpg
+EO_87220.jpg,Eosinophil,big,round,unsegmented-band,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_87220.jpg
+LY_741846.jpg,Lymphocyte,small,round,unsegmented-round,high,densely,no,frosted,blue,nil,nil,no,PBC_dataset_normal_DIB/lymphocyte/LY_741846.jpg
+BNE_34065.jpg,Neutrophil,big,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/BNE_34065.jpg
+MO_12267.jpg,Monocyte,big,irregular,irregular,low,loosely,no,frosted,blue,nil,nil,no,PBC_dataset_normal_DIB/monocyte/MO_12267.jpg
+BA_386187.jpg,Basophil,big,round,segmented-bilobed,low,densely,no,clear,light blue,coarse,purple,yes,PBC_dataset_normal_DIB/basophil/BA_386187.jpg
+BNE_759715.jpg,Neutrophil,small,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/BNE_759715.jpg
+LY_13675.jpg,Lymphocyte,small,round,unsegmented-round,high,densely,no,frosted,blue,nil,nil,no,PBC_dataset_normal_DIB/lymphocyte/LY_13675.jpg
+LY_519097.jpg,Lymphocyte,small,irregular,unsegmented-round,high,densely,no,clear,blue,nil,nil,no,PBC_dataset_normal_DIB/lymphocyte/LY_519097.jpg
+EO_168236.jpg,Eosinophil,small,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_168236.jpg
+BA_616487.jpg,Basophil,small,irregular,segmented-bilobed,low,densely,no,clear,light blue,coarse,purple,yes,PBC_dataset_normal_DIB/basophil/BA_616487.jpg
+LY_205694.jpg,Lymphocyte,big,irregular,unsegmented-round,low,densely,no,frosted,purple blue,nil,nil,no,PBC_dataset_normal_DIB/lymphocyte/LY_205694.jpg
+LY_305059.jpg,Lymphocyte,small,irregular,unsegmented-indented,high,densely,no,clear,blue,nil,nil,no,PBC_dataset_normal_DIB/lymphocyte/LY_305059.jpg
+MO_605192.jpg,Monocyte,small,round,unsegmented-indented,low,densely,no,frosted,blue,nil,nil,no,PBC_dataset_normal_DIB/monocyte/MO_605192.jpg
+SNE_701866.jpg,Neutrophil,big,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/SNE_701866.jpg
+SNE_504600.jpg,Neutrophil,big,round,segmented-multilobed,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/SNE_504600.jpg
+MO_101258.jpg,Monocyte,big,irregular,unsegmented-round,low,loosely,yes,frosted,light blue,nil,nil,no,PBC_dataset_normal_DIB/monocyte/MO_101258.jpg
+SNE_66862.jpg,Neutrophil,big,irregular,segmented-bilobed,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/SNE_66862.jpg
+BA_808405.jpg,Basophil,small,round,segmented-multilobed,low,densely,no,clear,light blue,coarse,purple,yes,PBC_dataset_normal_DIB/basophil/BA_808405.jpg
+SNE_754575.jpg,Neutrophil,big,round,segmented-multilobed,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/SNE_754575.jpg
+EO_551942.jpg,Eosinophil,big,round,unsegmented-band,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_551942.jpg
+BNE_271699.jpg,Neutrophil,small,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/BNE_271699.jpg
+SNE_487530.jpg,Neutrophil,big,irregular,segmented-bilobed,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/SNE_487530.jpg
+EO_812635.jpg,Eosinophil,big,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_812635.jpg
+BA_497822.jpg,Basophil,small,round,irregular,low,densely,no,clear,light blue,coarse,purple,yes,PBC_dataset_normal_DIB/basophil/BA_497822.jpg
+BNE_853528.jpg,Neutrophil,big,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/BNE_853528.jpg
+EO_189990.jpg,Eosinophil,big,irregular,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_189990.jpg
+BNE_960718.jpg,Neutrophil,big,round,segmented-multilobed,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/BNE_960718.jpg
+EO_742968.jpg,Eosinophil,big,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_742968.jpg
+BA_435917.jpg,Basophil,big,round,irregular,low,densely,no,clear,light blue,coarse,purple,yes,PBC_dataset_normal_DIB/basophil/BA_435917.jpg
+BNE_425475.jpg,Neutrophil,big,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/BNE_425475.jpg
+SNE_366402.jpg,Neutrophil,big,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/SNE_366402.jpg
+EO_836401.jpg,Eosinophil,big,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_836401.jpg
+LY_932486.jpg,Lymphocyte,small,round,unsegmented-round,high,densely,no,clear,purple blue,nil,nil,no,PBC_dataset_normal_DIB/lymphocyte/LY_932486.jpg
+BA_991876.jpg,Basophil,small,round,segmented-multilobed,low,densely,no,clear,light blue,coarse,purple,yes,PBC_dataset_normal_DIB/basophil/BA_991876.jpg
+LY_759072.jpg,Lymphocyte,small,irregular,unsegmented-round,high,densely,no,frosted,blue,nil,nil,no,PBC_dataset_normal_DIB/lymphocyte/LY_759072.jpg
+EO_390334.jpg,Eosinophil,big,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_390334.jpg
+EO_715291.jpg,Eosinophil,big,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_715291.jpg
+EO_740199.jpg,Eosinophil,big,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_740199.jpg
+SNE_784826.jpg,Neutrophil,big,round,segmented-bilobed,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/SNE_784826.jpg
+SNE_79214.jpg,Neutrophil,small,round,segmented-multilobed,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/SNE_79214.jpg
+BNE_447437.jpg,Neutrophil,small,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/BNE_447437.jpg
+SNE_621496.jpg,Neutrophil,small,irregular,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/SNE_621496.jpg
+MO_571631.jpg,Monocyte,big,round,unsegmented-indented,low,loosely,no,frosted,purple blue,nil,nil,no,PBC_dataset_normal_DIB/monocyte/MO_571631.jpg
+BA_484450.jpg,Basophil,small,round,segmented-bilobed,low,densely,no,clear,light blue,coarse,purple,yes,PBC_dataset_normal_DIB/basophil/BA_484450.jpg
+EO_999450.jpg,Eosinophil,big,round,unsegmented-band,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_999450.jpg
+LY_892611.jpg,Lymphocyte,small,round,unsegmented-round,high,densely,no,frosted,blue,nil,nil,no,PBC_dataset_normal_DIB/lymphocyte/LY_892611.jpg
+SNE_891808.jpg,Neutrophil,big,irregular,segmented-multilobed,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/SNE_891808.jpg
+EO_261424.jpg,Eosinophil,big,round,segmented-multilobed,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_261424.jpg
+EO_637008.jpg,Eosinophil,big,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_637008.jpg
+MO_775807.jpg,Monocyte,small,round,unsegmented-indented,high,densely,no,frosted,purple blue,nil,nil,no,PBC_dataset_normal_DIB/monocyte/MO_775807.jpg
+BA_679732.jpg,Basophil,small,round,irregular,low,densely,no,clear,light blue,coarse,purple,yes,PBC_dataset_normal_DIB/basophil/BA_679732.jpg
+SNE_517174.jpg,Neutrophil,big,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/SNE_517174.jpg
+BA_447906.jpg,Basophil,small,round,irregular,low,densely,no,clear,light blue,coarse,purple,yes,PBC_dataset_normal_DIB/basophil/BA_447906.jpg
+SNE_181877.jpg,Neutrophil,big,round,segmented-bilobed,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/SNE_181877.jpg
+EO_581311.jpg,Eosinophil,big,irregular,segmented-multilobed,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_581311.jpg
+EO_54103.jpg,Eosinophil,small,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_54103.jpg
+EO_358508.jpg,Eosinophil,small,round,segmented-multilobed,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_358508.jpg
+EO_258433.jpg,Eosinophil,big,round,segmented-multilobed,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_258433.jpg
+EO_601688.jpg,Eosinophil,small,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_601688.jpg
+BA_175269.jpg,Basophil,small,round,segmented-bilobed,low,densely,no,clear,light blue,coarse,purple,yes,PBC_dataset_normal_DIB/basophil/BA_175269.jpg
+BNE_191112.jpg,Neutrophil,big,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/neutrophil/BNE_191112.jpg
+LY_440047.jpg,Lymphocyte,small,round,unsegmented-round,high,densely,no,clear,purple blue,nil,nil,no,PBC_dataset_normal_DIB/lymphocyte/LY_440047.jpg
+BA_860031.jpg,Basophil,small,round,unsegmented-band,low,densely,no,clear,light blue,coarse,purple,yes,PBC_dataset_normal_DIB/basophil/BA_860031.jpg
+LY_494497.jpg,Lymphocyte,small,round,unsegmented-round,high,densely,no,clear,purple blue,nil,nil,no,PBC_dataset_normal_DIB/lymphocyte/LY_494497.jpg
+BA_459209.jpg,Basophil,big,irregular,irregular,low,densely,no,clear,light blue,coarse,purple,yes,PBC_dataset_normal_DIB/basophil/BA_459209.jpg
+BNE_179980.jpg,Neutrophil,big,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/BNE_179980.jpg
+EO_487054.jpg,Eosinophil,big,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_487054.jpg
+SNE_113869.jpg,Neutrophil,small,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/SNE_113869.jpg
+BNE_748204.jpg,Neutrophil,small,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/BNE_748204.jpg
+MO_123180.jpg,Monocyte,big,round,unsegmented-indented,low,loosely,no,frosted,blue,nil,nil,no,PBC_dataset_normal_DIB/monocyte/MO_123180.jpg
+BNE_387976.jpg,Neutrophil,small,round,unsegmented-band,low,densely,no,clear,light blue,coarse,purple,yes,PBC_dataset_normal_DIB/neutrophil/BNE_387976.jpg
+MO_558465.jpg,Monocyte,big,irregular,unsegmented-indented,low,loosely,yes,frosted,purple blue,nil,nil,no,PBC_dataset_normal_DIB/monocyte/MO_558465.jpg
+EO_599188.jpg,Eosinophil,big,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_599188.jpg
+EO_444606.jpg,Eosinophil,big,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_444606.jpg
+BNE_178593.jpg,Neutrophil,big,irregular,unsegmented-band,low,densely,no,clear,light blue,small,purple,yes,PBC_dataset_normal_DIB/neutrophil/BNE_178593.jpg
+BNE_46088.jpg,Neutrophil,big,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/BNE_46088.jpg
+MO_500300.jpg,Monocyte,small,round,unsegmented-indented,high,loosely,no,frosted,purple blue,nil,nil,no,PBC_dataset_normal_DIB/monocyte/MO_500300.jpg
+SNE_923091.jpg,Neutrophil,big,irregular,segmented-bilobed,low,densely,yes,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/SNE_923091.jpg
+EO_692915.jpg,Eosinophil,small,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_692915.jpg
+EO_218533.jpg,Eosinophil,small,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_218533.jpg
+BA_2862.jpg,Basophil,small,round,segmented-bilobed,low,densely,no,clear,light blue,coarse,purple,yes,PBC_dataset_normal_DIB/basophil/BA_2862.jpg
+LY_929854.jpg,Lymphocyte,small,round,unsegmented-round,high,densely,no,frosted,blue,nil,nil,no,PBC_dataset_normal_DIB/lymphocyte/LY_929854.jpg
+EO_254268.jpg,Eosinophil,big,irregular,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_254268.jpg
+EO_343324.jpg,Eosinophil,small,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_343324.jpg
+MO_519286.jpg,Monocyte,big,irregular,unsegmented-indented,low,densely,yes,frosted,blue,nil,nil,no,PBC_dataset_normal_DIB/monocyte/MO_519286.jpg
+MO_140976.jpg,Monocyte,big,irregular,irregular,low,loosely,yes,frosted,blue,nil,nil,no,PBC_dataset_normal_DIB/monocyte/MO_140976.jpg
+MO_321187.jpg,Monocyte,big,round,unsegmented-indented,low,loosely,yes,frosted,purple blue,nil,nil,no,PBC_dataset_normal_DIB/monocyte/MO_321187.jpg
+LY_83666.jpg,Lymphocyte,small,round,unsegmented-round,high,densely,no,frosted,purple blue,nil,nil,no,PBC_dataset_normal_DIB/lymphocyte/LY_83666.jpg
+BNE_350976.jpg,Neutrophil,big,irregular,unsegmented-band,low,densely,yes,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/BNE_350976.jpg
+SNE_36531.jpg,Neutrophil,big,irregular,segmented-multilobed,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/SNE_36531.jpg
+SNE_404174.jpg,Neutrophil,big,irregular,segmented-bilobed,low,densely,yes,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/SNE_404174.jpg
+BA_130694.jpg,Basophil,small,round,segmented-multilobed,low,densely,no,clear,light blue,coarse,purple,yes,PBC_dataset_normal_DIB/basophil/BA_130694.jpg
+EO_159974.jpg,Eosinophil,big,round,segmented-bilobed,low,loosely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_159974.jpg
+EO_802945.jpg,Eosinophil,big,round,unsegmented-band,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_802945.jpg
+MO_775809.jpg,Monocyte,big,irregular,unsegmented-indented,low,densely,yes,frosted,purple blue,nil,nil,no,PBC_dataset_normal_DIB/monocyte/MO_775809.jpg
+SNE_325145.jpg,Neutrophil,big,round,segmented-bilobed,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/SNE_325145.jpg
+LY_873630.jpg,Lymphocyte,small,round,unsegmented-round,high,densely,no,frosted,blue,nil,nil,no,PBC_dataset_normal_DIB/lymphocyte/LY_873630.jpg
+SNE_520928.jpg,Neutrophil,big,irregular,segmented-multilobed,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/SNE_520928.jpg
+LY_130930.jpg,Lymphocyte,small,round,unsegmented-round,high,densely,no,frosted,blue,nil,nil,no,PBC_dataset_normal_DIB/lymphocyte/LY_130930.jpg
+MO_144254.jpg,Monocyte,small,round,unsegmented-indented,low,densely,no,frosted,purple blue,nil,nil,no,PBC_dataset_normal_DIB/monocyte/MO_144254.jpg
+LY_875657.jpg,Lymphocyte,small,round,unsegmented-round,high,densely,no,clear,purple blue,nil,nil,no,PBC_dataset_normal_DIB/lymphocyte/LY_875657.jpg
+BNE_905474.jpg,Neutrophil,big,round,irregular,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/BNE_905474.jpg
+BNE_158217.jpg,Neutrophil,big,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/BNE_158217.jpg
+EO_282222.jpg,Eosinophil,small,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_282222.jpg
+LY_45660.jpg,Lymphocyte,small,round,unsegmented-round,high,loosely,no,clear,light blue,nil,nil,no,PBC_dataset_normal_DIB/lymphocyte/LY_45660.jpg
+BNE_671954.jpg,Neutrophil,small,round,unsegmented-band,low,densely,no,clear,light blue,small,purple,yes,PBC_dataset_normal_DIB/neutrophil/BNE_671954.jpg
+BA_636027.jpg,Basophil,small,round,segmented-multilobed,low,densely,no,clear,light blue,coarse,purple,yes,PBC_dataset_normal_DIB/basophil/BA_636027.jpg
+BNE_148682.jpg,Neutrophil,small,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/BNE_148682.jpg
+BNE_946465.jpg,Neutrophil,big,round,unsegmented-band,low,densely,yes,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/BNE_946465.jpg
+MO_993312.jpg,Monocyte,big,round,unsegmented-indented,low,densely,no,frosted,purple blue,nil,nil,no,PBC_dataset_normal_DIB/monocyte/MO_993312.jpg
+BA_545506.jpg,Basophil,small,irregular,irregular,low,densely,no,clear,light blue,small,purple,yes,PBC_dataset_normal_DIB/basophil/BA_545506.jpg
+SNE_153736.jpg,Neutrophil,big,round,segmented-multilobed,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/SNE_153736.jpg
+BNE_139958.jpg,Neutrophil,big,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/BNE_139958.jpg
+BNE_578285.jpg,Neutrophil,big,irregular,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/BNE_578285.jpg
+EO_147464.jpg,Eosinophil,small,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_147464.jpg
+MO_372222.jpg,Monocyte,big,irregular,unsegmented-indented,low,loosely,yes,frosted,blue,nil,nil,no,PBC_dataset_normal_DIB/monocyte/MO_372222.jpg
+EO_905351.jpg,Eosinophil,small,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_905351.jpg
+LY_192796.jpg,Lymphocyte,small,irregular,unsegmented-round,high,densely,no,clear,blue,nil,nil,no,PBC_dataset_normal_DIB/lymphocyte/LY_192796.jpg
+BA_518773.jpg,Basophil,small,round,segmented-bilobed,low,densely,no,clear,light blue,coarse,purple,yes,PBC_dataset_normal_DIB/basophil/BA_518773.jpg
+SNE_230831.jpg,Neutrophil,big,irregular,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/SNE_230831.jpg
+BNE_725331.jpg,Neutrophil,big,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/BNE_725331.jpg
+BA_147981.jpg,Basophil,small,round,segmented-multilobed,low,densely,no,clear,light blue,coarse,purple,yes,PBC_dataset_normal_DIB/basophil/BA_147981.jpg
+BNE_330959.jpg,Neutrophil,small,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/BNE_330959.jpg
+BNE_797783.jpg,Neutrophil,small,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/BNE_797783.jpg
+EO_398276.jpg,Eosinophil,big,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_398276.jpg
+SNE_394622.jpg,Neutrophil,big,round,segmented-bilobed,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/SNE_394622.jpg
+BA_139733.jpg,Basophil,small,round,irregular,low,densely,no,clear,light blue,coarse,purple,yes,PBC_dataset_normal_DIB/basophil/BA_139733.jpg
+LY_563513.jpg,Lymphocyte,small,irregular,unsegmented-indented,high,densely,no,frosted,blue,nil,nil,no,PBC_dataset_normal_DIB/lymphocyte/LY_563513.jpg
+SNE_513366.jpg,Neutrophil,big,irregular,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/SNE_513366.jpg
+EO_943855.jpg,Eosinophil,big,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_943855.jpg
+MO_84318.jpg,Monocyte,big,irregular,unsegmented-indented,low,densely,yes,frosted,blue,nil,nil,no,PBC_dataset_normal_DIB/monocyte/MO_84318.jpg
+BA_363451.jpg,Basophil,small,irregular,unsegmented-indented,low,densely,no,clear,light blue,coarse,purple,yes,PBC_dataset_normal_DIB/basophil/BA_363451.jpg
+MO_888484.jpg,Monocyte,big,irregular,unsegmented-indented,low,loosely,no,frosted,blue,nil,nil,no,PBC_dataset_normal_DIB/monocyte/MO_888484.jpg
+BA_413080.jpg,Basophil,small,round,irregular,low,densely,no,clear,light blue,coarse,purple,yes,PBC_dataset_normal_DIB/basophil/BA_413080.jpg
+EO_108396.jpg,Eosinophil,small,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_108396.jpg
+LY_746004.jpg,Lymphocyte,small,irregular,unsegmented-round,high,densely,no,frosted,blue,nil,nil,no,PBC_dataset_normal_DIB/lymphocyte/LY_746004.jpg
+LY_834838.jpg,Lymphocyte,small,irregular,unsegmented-indented,high,densely,no,frosted,purple blue,nil,nil,no,PBC_dataset_normal_DIB/lymphocyte/LY_834838.jpg
+MO_562918.jpg,Monocyte,small,round,unsegmented-round,high,densely,no,frosted,purple blue,nil,nil,no,PBC_dataset_normal_DIB/monocyte/MO_562918.jpg
+LY_625010.jpg,Lymphocyte,small,round,unsegmented-round,high,densely,no,frosted,blue,nil,nil,no,PBC_dataset_normal_DIB/lymphocyte/LY_625010.jpg
+SNE_133297.jpg,Neutrophil,big,irregular,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/SNE_133297.jpg
+BNE_343960.jpg,Neutrophil,small,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/BNE_343960.jpg
+MO_820730.jpg,Monocyte,big,round,unsegmented-indented,low,densely,no,frosted,purple blue,nil,nil,no,PBC_dataset_normal_DIB/monocyte/MO_820730.jpg
+SNE_651779.jpg,Neutrophil,big,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/SNE_651779.jpg
+LY_722941.jpg,Lymphocyte,small,irregular,unsegmented-round,high,densely,no,frosted,blue,nil,nil,no,PBC_dataset_normal_DIB/lymphocyte/LY_722941.jpg
+BNE_831588.jpg,Neutrophil,big,round,segmented-multilobed,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/BNE_831588.jpg
+SNE_773334.jpg,Neutrophil,big,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/SNE_773334.jpg
+BA_262646.jpg,Basophil,small,round,segmented-multilobed,low,densely,no,clear,light blue,coarse,purple,yes,PBC_dataset_normal_DIB/basophil/BA_262646.jpg
+BA_93417.jpg,Basophil,small,round,irregular,low,densely,no,clear,light blue,coarse,purple,yes,PBC_dataset_normal_DIB/basophil/BA_93417.jpg
+MO_596314.jpg,Monocyte,big,irregular,unsegmented-indented,low,loosely,no,frosted,blue,nil,nil,no,PBC_dataset_normal_DIB/monocyte/MO_596314.jpg
+BNE_96863.jpg,Neutrophil,big,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/BNE_96863.jpg
+EO_806352.jpg,Eosinophil,big,irregular,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_806352.jpg
+SNE_36183.jpg,Neutrophil,big,irregular,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/SNE_36183.jpg
+BA_547170.jpg,Basophil,small,irregular,irregular,low,densely,no,clear,light blue,coarse,purple,yes,PBC_dataset_normal_DIB/basophil/BA_547170.jpg
+BNE_976754.jpg,Neutrophil,small,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/BNE_976754.jpg
+BA_468972.jpg,Basophil,small,round,segmented-bilobed,low,densely,no,clear,light blue,coarse,purple,yes,PBC_dataset_normal_DIB/basophil/BA_468972.jpg
+EO_422295.jpg,Eosinophil,small,round,segmented-multilobed,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_422295.jpg
+LY_872934.jpg,Lymphocyte,small,round,unsegmented-indented,high,densely,no,frosted,blue,nil,nil,no,PBC_dataset_normal_DIB/lymphocyte/LY_872934.jpg
+EO_223866.jpg,Eosinophil,small,round,segmented-multilobed,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_223866.jpg
+BA_141631.jpg,Basophil,small,round,irregular,high,densely,no,clear,light blue,coarse,purple,yes,PBC_dataset_normal_DIB/basophil/BA_141631.jpg
+LY_154997.jpg,Lymphocyte,small,round,unsegmented-indented,high,densely,no,frosted,blue,nil,nil,no,PBC_dataset_normal_DIB/lymphocyte/LY_154997.jpg
+BA_799126.jpg,Basophil,small,round,irregular,low,densely,no,clear,light blue,coarse,purple,yes,PBC_dataset_normal_DIB/basophil/BA_799126.jpg
+SNE_311362.jpg,Neutrophil,big,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/SNE_311362.jpg
+BNE_310148.jpg,Neutrophil,big,irregular,unsegmented-band,low,loosely,yes,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/BNE_310148.jpg
+LY_613623.jpg,Lymphocyte,small,round,unsegmented-round,high,densely,no,frosted,blue,nil,nil,no,PBC_dataset_normal_DIB/lymphocyte/LY_613623.jpg
+EO_490551.jpg,Eosinophil,big,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_490551.jpg
+MO_440210.jpg,Monocyte,big,irregular,unsegmented-round,low,densely,yes,frosted,purple blue,nil,nil,no,PBC_dataset_normal_DIB/monocyte/MO_440210.jpg
+MO_564124.jpg,Monocyte,small,round,unsegmented-round,high,densely,no,frosted,blue,nil,nil,no,PBC_dataset_normal_DIB/monocyte/MO_564124.jpg
+EO_341843.jpg,Eosinophil,big,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_341843.jpg
+BNE_338195.jpg,Neutrophil,small,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/BNE_338195.jpg
+SNE_129727.jpg,Neutrophil,small,round,segmented-multilobed,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/SNE_129727.jpg
+EO_609494.jpg,Eosinophil,small,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_609494.jpg
+LY_386792.jpg,Lymphocyte,small,irregular,unsegmented-indented,high,densely,no,frosted,blue,nil,nil,no,PBC_dataset_normal_DIB/lymphocyte/LY_386792.jpg
+BNE_241705.jpg,Neutrophil,small,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/BNE_241705.jpg
+EO_625432.jpg,Eosinophil,big,round,unsegmented-band,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_625432.jpg
+SNE_376675.jpg,Neutrophil,big,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/SNE_376675.jpg
+EO_594721.jpg,Eosinophil,small,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_594721.jpg
+BNE_698403.jpg,Neutrophil,big,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/BNE_698403.jpg
+BNE_977712.jpg,Neutrophil,small,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/BNE_977712.jpg
+BA_89223.jpg,Basophil,small,round,segmented-multilobed,low,densely,no,clear,light blue,coarse,purple,yes,PBC_dataset_normal_DIB/basophil/BA_89223.jpg
+BNE_403012.jpg,Neutrophil,small,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/BNE_403012.jpg
+EO_769464.jpg,Eosinophil,small,round,unsegmented-band,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_769464.jpg
+LY_353550.jpg,Lymphocyte,small,round,unsegmented-indented,low,densely,no,frosted,purple blue,nil,nil,no,PBC_dataset_normal_DIB/lymphocyte/LY_353550.jpg
+BNE_818755.jpg,Neutrophil,big,round,segmented-bilobed,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/BNE_818755.jpg
+SNE_307829.jpg,Neutrophil,big,irregular,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/SNE_307829.jpg
+EO_537164.jpg,Eosinophil,small,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_537164.jpg
+BA_266370.jpg,Basophil,small,round,segmented-bilobed,low,densely,no,clear,light blue,coarse,purple,yes,PBC_dataset_normal_DIB/basophil/BA_266370.jpg
+LY_415793.jpg,Lymphocyte,small,round,unsegmented-round,low,densely,no,frosted,blue,nil,nil,no,PBC_dataset_normal_DIB/lymphocyte/LY_415793.jpg
+BA_511856.jpg,Basophil,small,round,segmented-multilobed,low,densely,no,clear,light blue,coarse,purple,yes,PBC_dataset_normal_DIB/basophil/BA_511856.jpg
+EO_261509.jpg,Eosinophil,small,round,segmented-multilobed,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_261509.jpg
+EO_821178.jpg,Eosinophil,big,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_821178.jpg
+LY_665299.jpg,Lymphocyte,small,round,unsegmented-round,high,densely,no,frosted,blue,nil,nil,no,PBC_dataset_normal_DIB/lymphocyte/LY_665299.jpg
+BNE_704297.jpg,Neutrophil,big,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/BNE_704297.jpg
+EO_287971.jpg,Eosinophil,small,round,segmented-multilobed,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_287971.jpg
+BA_499861.jpg,Basophil,small,round,irregular,low,densely,no,clear,light blue,coarse,purple,yes,PBC_dataset_normal_DIB/basophil/BA_499861.jpg
+EO_863038.jpg,Eosinophil,big,round,segmented-multilobed,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_863038.jpg
+LY_771696.jpg,Lymphocyte,small,irregular,unsegmented-round,high,densely,no,clear,purple blue,nil,nil,no,PBC_dataset_normal_DIB/lymphocyte/LY_771696.jpg
+BA_399438.jpg,Basophil,big,round,segmented-multilobed,low,densely,no,clear,light blue,coarse,purple,yes,PBC_dataset_normal_DIB/basophil/BA_399438.jpg
+BNE_79792.jpg,Neutrophil,big,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/BNE_79792.jpg
+BA_47.jpg,Basophil,small,round,segmented-bilobed,low,densely,no,clear,light blue,coarse,purple,yes,PBC_dataset_normal_DIB/basophil/BA_47.jpg
+BNE_134080.jpg,Neutrophil,big,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/BNE_134080.jpg
+EO_576430.jpg,Eosinophil,big,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_576430.jpg
+EO_67379.jpg,Eosinophil,big,round,unsegmented-band,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_67379.jpg
+EO_823298.jpg,Eosinophil,big,round,segmented-multilobed,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_823298.jpg
+BA_842957.jpg,Basophil,small,round,irregular,low,densely,no,clear,light blue,coarse,purple,yes,PBC_dataset_normal_DIB/basophil/BA_842957.jpg
+EO_447220.jpg,Eosinophil,small,round,segmented-multilobed,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_447220.jpg
+MO_899210.jpg,Monocyte,big,round,unsegmented-indented,low,densely,no,frosted,blue,nil,nil,no,PBC_dataset_normal_DIB/monocyte/MO_899210.jpg
+BNE_779452.jpg,Neutrophil,small,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/BNE_779452.jpg
+SNE_975675.jpg,Neutrophil,big,round,segmented-bilobed,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/SNE_975675.jpg
+EO_490207.jpg,Eosinophil,big,irregular,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_490207.jpg
+MO_189116.jpg,Monocyte,big,irregular,unsegmented-indented,low,loosely,yes,frosted,blue,nil,nil,no,PBC_dataset_normal_DIB/monocyte/MO_189116.jpg
+SNE_399708.jpg,Neutrophil,big,round,segmented-multilobed,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/SNE_399708.jpg
+BNE_747210.jpg,Neutrophil,small,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/BNE_747210.jpg
+BA_855924.jpg,Basophil,small,round,irregular,low,densely,no,clear,light blue,coarse,purple,yes,PBC_dataset_normal_DIB/basophil/BA_855924.jpg
+EO_918009.jpg,Eosinophil,small,round,segmented-multilobed,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_918009.jpg
+SNE_880246.jpg,Neutrophil,big,irregular,segmented-multilobed,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/SNE_880246.jpg
+MO_112202.jpg,Monocyte,big,round,unsegmented-indented,low,densely,yes,frosted,purple blue,nil,nil,no,PBC_dataset_normal_DIB/monocyte/MO_112202.jpg
+SNE_358253.jpg,Neutrophil,small,irregular,unsegmented-band,low,densely,yes,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/SNE_358253.jpg
+BNE_814356.jpg,Neutrophil,big,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/BNE_814356.jpg
+BA_66312.jpg,Basophil,big,round,segmented-multilobed,low,densely,no,clear,light blue,coarse,purple,yes,PBC_dataset_normal_DIB/basophil/BA_66312.jpg
+EO_859248.jpg,Eosinophil,small,round,unsegmented-band,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_859248.jpg
+EO_630551.jpg,Eosinophil,small,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_630551.jpg
+SNE_229212.jpg,Neutrophil,big,irregular,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/SNE_229212.jpg
+BA_395028.jpg,Basophil,small,round,irregular,low,densely,no,clear,light blue,coarse,purple,yes,PBC_dataset_normal_DIB/basophil/BA_395028.jpg
+LY_732043.jpg,Lymphocyte,small,irregular,unsegmented-round,high,densely,no,frosted,blue,nil,nil,no,PBC_dataset_normal_DIB/lymphocyte/LY_732043.jpg
+BA_490072.jpg,Basophil,small,round,segmented-multilobed,low,densely,no,clear,light blue,coarse,purple,yes,PBC_dataset_normal_DIB/basophil/BA_490072.jpg
+EO_312108.jpg,Eosinophil,small,round,segmented-multilobed,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_312108.jpg
+MO_172654.jpg,Monocyte,big,round,unsegmented-indented,low,loosely,no,frosted,purple blue,nil,nil,no,PBC_dataset_normal_DIB/monocyte/MO_172654.jpg
+EO_529838.jpg,Eosinophil,big,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_529838.jpg
+LY_37471.jpg,Lymphocyte,small,round,unsegmented-round,high,densely,no,frosted,blue,nil,nil,no,PBC_dataset_normal_DIB/lymphocyte/LY_37471.jpg
+EO_136177.jpg,Eosinophil,small,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_136177.jpg
+LY_699056.jpg,Lymphocyte,small,round,unsegmented-round,high,densely,no,frosted,purple blue,nil,nil,no,PBC_dataset_normal_DIB/lymphocyte/LY_699056.jpg
+EO_696559.jpg,Eosinophil,big,round,unsegmented-band,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_696559.jpg
+BNE_402878.jpg,Neutrophil,big,irregular,unsegmented-band,low,densely,yes,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/BNE_402878.jpg
+MO_834548.jpg,Monocyte,big,irregular,unsegmented-indented,low,densely,yes,frosted,light blue,nil,nil,no,PBC_dataset_normal_DIB/monocyte/MO_834548.jpg
+SNE_948962.jpg,Neutrophil,big,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/SNE_948962.jpg
+LY_359031.jpg,Lymphocyte,small,round,unsegmented-round,high,densely,no,frosted,blue,nil,nil,no,PBC_dataset_normal_DIB/lymphocyte/LY_359031.jpg
+SNE_471764.jpg,Neutrophil,big,round,segmented-multilobed,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/SNE_471764.jpg
+SNE_86548.jpg,Neutrophil,big,irregular,segmented-multilobed,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/SNE_86548.jpg
+EO_155334.jpg,Eosinophil,small,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_155334.jpg
+SNE_221448.jpg,Neutrophil,big,round,segmented-multilobed,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/SNE_221448.jpg
+SNE_749679.jpg,Neutrophil,big,round,segmented-multilobed,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/SNE_749679.jpg
+BNE_301694.jpg,Neutrophil,big,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/BNE_301694.jpg
+BA_19177.jpg,Basophil,big,round,segmented-bilobed,low,densely,no,clear,light blue,coarse,purple,yes,PBC_dataset_normal_DIB/basophil/BA_19177.jpg
+EO_407207.jpg,Eosinophil,small,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_407207.jpg
+MO_777817.jpg,Monocyte,big,irregular,unsegmented-indented,low,densely,no,frosted,blue,nil,nil,no,PBC_dataset_normal_DIB/monocyte/MO_777817.jpg
+EO_236154.jpg,Eosinophil,small,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_236154.jpg
+MO_902264.jpg,Monocyte,big,round,unsegmented-indented,low,densely,no,frosted,purple blue,nil,nil,no,PBC_dataset_normal_DIB/monocyte/MO_902264.jpg
+EO_575911.jpg,Eosinophil,big,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_575911.jpg
+BA_588625.jpg,Basophil,small,irregular,segmented-multilobed,low,densely,no,clear,light blue,coarse,purple,yes,PBC_dataset_normal_DIB/basophil/BA_588625.jpg
+BA_383070.jpg,Basophil,small,round,segmented-multilobed,low,densely,no,clear,light blue,coarse,purple,yes,PBC_dataset_normal_DIB/basophil/BA_383070.jpg
+LY_865656.jpg,Lymphocyte,small,round,unsegmented-round,high,densely,no,frosted,blue,nil,nil,no,PBC_dataset_normal_DIB/lymphocyte/LY_865656.jpg
+EO_977622.jpg,Eosinophil,big,irregular,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_977622.jpg
+BNE_568376.jpg,Neutrophil,small,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/BNE_568376.jpg
+EO_623568.jpg,Eosinophil,big,round,segmented-multilobed,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_623568.jpg
+EO_529065.jpg,Eosinophil,small,round,segmented-multilobed,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_529065.jpg
+EO_321079.jpg,Eosinophil,small,round,segmented-multilobed,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_321079.jpg
+BNE_509829.jpg,Neutrophil,small,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/BNE_509829.jpg
+LY_82173.jpg,Lymphocyte,small,round,unsegmented-round,high,densely,no,frosted,purple blue,nil,nil,no,PBC_dataset_normal_DIB/lymphocyte/LY_82173.jpg
+LY_461786.jpg,Lymphocyte,small,irregular,irregular,high,densely,no,clear,blue,nil,nil,no,PBC_dataset_normal_DIB/lymphocyte/LY_461786.jpg
+MO_541337.jpg,Monocyte,big,irregular,irregular,low,loosely,yes,frosted,blue,nil,nil,no,PBC_dataset_normal_DIB/monocyte/MO_541337.jpg
+SNE_302902.jpg,Neutrophil,big,round,segmented-bilobed,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/SNE_302902.jpg
+LY_272765.jpg,Lymphocyte,small,round,unsegmented-indented,low,densely,no,clear,purple blue,nil,nil,no,PBC_dataset_normal_DIB/lymphocyte/LY_272765.jpg
+EO_176988.jpg,Eosinophil,big,round,unsegmented-band,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_176988.jpg
+MO_245512.jpg,Monocyte,big,round,unsegmented-indented,low,loosely,no,clear,purple blue,nil,nil,no,PBC_dataset_normal_DIB/monocyte/MO_245512.jpg
+MO_652110.jpg,Monocyte,big,round,unsegmented-indented,low,loosely,no,frosted,purple blue,nil,nil,no,PBC_dataset_normal_DIB/monocyte/MO_652110.jpg
+MO_341127.jpg,Monocyte,big,irregular,unsegmented-indented,low,loosely,no,frosted,purple blue,nil,nil,no,PBC_dataset_normal_DIB/monocyte/MO_341127.jpg
+BNE_787150.jpg,Neutrophil,big,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/BNE_787150.jpg
+BNE_522125.jpg,Neutrophil,big,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/BNE_522125.jpg
+EO_148818.jpg,Eosinophil,big,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_148818.jpg
+EO_716119.jpg,Eosinophil,big,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_716119.jpg
+LY_335261.jpg,Lymphocyte,small,irregular,unsegmented-round,high,densely,no,frosted,purple blue,nil,nil,no,PBC_dataset_normal_DIB/lymphocyte/LY_335261.jpg
+EO_535432.jpg,Eosinophil,small,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_535432.jpg
+SNE_70524.jpg,Neutrophil,big,irregular,segmented-multilobed,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/SNE_70524.jpg
+MO_47583.jpg,Monocyte,big,round,unsegmented-indented,low,loosely,no,frosted,blue,nil,nil,no,PBC_dataset_normal_DIB/monocyte/MO_47583.jpg
+BNE_2234.jpg,Neutrophil,big,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/BNE_2234.jpg
+EO_938332.jpg,Eosinophil,big,irregular,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_938332.jpg
+BA_960438.jpg,Basophil,small,round,segmented-multilobed,low,densely,no,clear,light blue,coarse,purple,yes,PBC_dataset_normal_DIB/basophil/BA_960438.jpg
+LY_29912.jpg,Lymphocyte,small,irregular,unsegmented-round,high,densely,no,clear,purple blue,nil,nil,no,PBC_dataset_normal_DIB/lymphocyte/LY_29912.jpg
+LY_528736.jpg,Lymphocyte,small,round,unsegmented-round,high,densely,no,frosted,blue,nil,nil,no,PBC_dataset_normal_DIB/lymphocyte/LY_528736.jpg
+EO_243092.jpg,Eosinophil,small,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_243092.jpg
+EO_428208.jpg,Eosinophil,big,round,segmented-multilobed,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_428208.jpg
+EO_926006.jpg,Eosinophil,big,irregular,segmented-multilobed,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_926006.jpg
+MO_905158.jpg,Monocyte,big,irregular,irregular,low,densely,yes,frosted,purple blue,nil,nil,no,PBC_dataset_normal_DIB/monocyte/MO_905158.jpg
+MO_263017.jpg,Monocyte,big,round,unsegmented-round,low,loosely,no,frosted,blue,nil,nil,no,PBC_dataset_normal_DIB/monocyte/MO_263017.jpg
+BA_532468.jpg,Basophil,small,round,segmented-bilobed,low,densely,no,clear,light blue,coarse,purple,yes,PBC_dataset_normal_DIB/basophil/BA_532468.jpg
+BA_897436.jpg,Basophil,small,round,segmented-multilobed,low,densely,no,clear,light blue,coarse,purple,yes,PBC_dataset_normal_DIB/basophil/BA_897436.jpg
+LY_326859.jpg,Lymphocyte,small,round,unsegmented-round,high,densely,no,clear,blue,nil,nil,no,PBC_dataset_normal_DIB/lymphocyte/LY_326859.jpg
+EO_913784.jpg,Eosinophil,big,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_913784.jpg
+SNE_844272.jpg,Neutrophil,big,irregular,segmented-multilobed,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/SNE_844272.jpg
+EO_32318.jpg,Eosinophil,small,round,segmented-multilobed,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_32318.jpg
+MO_617871.jpg,Monocyte,big,irregular,irregular,low,loosely,yes,frosted,blue,nil,nil,no,PBC_dataset_normal_DIB/monocyte/MO_617871.jpg
+MO_526870.jpg,Monocyte,big,irregular,unsegmented-indented,low,loosely,yes,frosted,purple blue,nil,nil,no,PBC_dataset_normal_DIB/monocyte/MO_526870.jpg
+EO_176538.jpg,Eosinophil,small,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_176538.jpg
+EO_42604.jpg,Eosinophil,small,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_42604.jpg
+EO_106564.jpg,Eosinophil,big,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_106564.jpg
+SNE_903691.jpg,Neutrophil,big,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/SNE_903691.jpg
+EO_793799.jpg,Eosinophil,big,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_793799.jpg
+BA_907484.jpg,Basophil,big,round,segmented-multilobed,low,densely,no,clear,light blue,coarse,purple,yes,PBC_dataset_normal_DIB/basophil/BA_907484.jpg
+SNE_528277.jpg,Neutrophil,big,round,segmented-bilobed,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/SNE_528277.jpg
+MO_546259.jpg,Monocyte,big,irregular,unsegmented-indented,low,densely,yes,frosted,purple blue,nil,nil,no,PBC_dataset_normal_DIB/monocyte/MO_546259.jpg
+EO_237312.jpg,Eosinophil,big,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_237312.jpg
+BNE_697892.jpg,Neutrophil,small,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/BNE_697892.jpg
+MO_20976.jpg,Monocyte,big,irregular,unsegmented-indented,low,loosely,yes,frosted,blue,nil,nil,no,PBC_dataset_normal_DIB/monocyte/MO_20976.jpg
+BA_578419.jpg,Basophil,small,round,segmented-bilobed,low,densely,no,clear,light blue,coarse,purple,yes,PBC_dataset_normal_DIB/basophil/BA_578419.jpg
+MO_70005.jpg,Monocyte,big,irregular,irregular,low,loosely,yes,frosted,blue,nil,nil,no,PBC_dataset_normal_DIB/monocyte/MO_70005.jpg
+SNE_117234.jpg,Neutrophil,big,round,segmented-multilobed,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/SNE_117234.jpg
+EO_906482.jpg,Eosinophil,big,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_906482.jpg
+SNE_846805.jpg,Neutrophil,small,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/SNE_846805.jpg
+LY_322867.jpg,Lymphocyte,small,irregular,unsegmented-round,high,densely,no,frosted,blue,nil,nil,no,PBC_dataset_normal_DIB/lymphocyte/LY_322867.jpg
+EO_780772.jpg,Eosinophil,big,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_780772.jpg
+BNE_141509.jpg,Neutrophil,big,irregular,unsegmented-band,low,densely,yes,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/BNE_141509.jpg
+BNE_60203.jpg,Neutrophil,big,irregular,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/BNE_60203.jpg
+EO_721078.jpg,Eosinophil,small,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_721078.jpg
+EO_326816.jpg,Eosinophil,big,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_326816.jpg
+EO_808282.jpg,Eosinophil,small,round,segmented-multilobed,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_808282.jpg
+EO_741894.jpg,Eosinophil,big,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_741894.jpg
+MO_457075.jpg,Monocyte,big,round,irregular,low,loosely,yes,frosted,blue,nil,nil,no,PBC_dataset_normal_DIB/monocyte/MO_457075.jpg
+MO_166163.jpg,Monocyte,small,round,unsegmented-indented,low,loosely,no,frosted,blue,nil,nil,no,PBC_dataset_normal_DIB/monocyte/MO_166163.jpg
+EO_630009.jpg,Eosinophil,big,irregular,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_630009.jpg
+EO_97369.jpg,Eosinophil,small,round,unsegmented-band,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_97369.jpg
+BA_608112.jpg,Basophil,small,round,segmented-bilobed,low,densely,no,clear,light blue,coarse,purple,yes,PBC_dataset_normal_DIB/basophil/BA_608112.jpg
+BA_631393.jpg,Basophil,big,round,irregular,low,densely,no,clear,light blue,coarse,purple,yes,PBC_dataset_normal_DIB/basophil/BA_631393.jpg
+BNE_282906.jpg,Neutrophil,small,round,unsegmented-band,low,densely,no,clear,light blue,small,purple,yes,PBC_dataset_normal_DIB/neutrophil/BNE_282906.jpg
+SNE_689406.jpg,Neutrophil,big,irregular,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/SNE_689406.jpg
+SNE_548349.jpg,Neutrophil,big,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/SNE_548349.jpg
+EO_267802.jpg,Eosinophil,small,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_267802.jpg
+BA_508288.jpg,Basophil,small,round,segmented-multilobed,low,densely,no,clear,light blue,coarse,purple,yes,PBC_dataset_normal_DIB/basophil/BA_508288.jpg
+MO_929161.jpg,Monocyte,small,round,unsegmented-round,high,densely,no,frosted,blue,nil,nil,no,PBC_dataset_normal_DIB/monocyte/MO_929161.jpg
+BNE_671361.jpg,Neutrophil,big,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/BNE_671361.jpg
+BNE_189978.jpg,Neutrophil,big,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/BNE_189978.jpg
+BNE_720265.jpg,Neutrophil,small,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/BNE_720265.jpg
+EO_389244.jpg,Eosinophil,big,round,segmented-multilobed,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_389244.jpg
+EO_438939.jpg,Eosinophil,big,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_438939.jpg
+SNE_423353.jpg,Neutrophil,big,irregular,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/SNE_423353.jpg
+BNE_634126.jpg,Neutrophil,big,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/BNE_634126.jpg
+MO_902638.jpg,Monocyte,big,round,unsegmented-indented,low,loosely,no,frosted,blue,nil,nil,no,PBC_dataset_normal_DIB/monocyte/MO_902638.jpg
+EO_581610.jpg,Eosinophil,big,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_581610.jpg
+EO_182479.jpg,Eosinophil,big,round,segmented-multilobed,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_182479.jpg
+BNE_800035.jpg,Neutrophil,small,round,unsegmented-band,low,densely,yes,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/BNE_800035.jpg
+LY_472256.jpg,Lymphocyte,small,round,unsegmented-round,high,densely,no,frosted,blue,nil,nil,no,PBC_dataset_normal_DIB/lymphocyte/LY_472256.jpg
+MO_104290.jpg,Monocyte,small,round,unsegmented-indented,low,densely,no,clear,purple blue,nil,nil,no,PBC_dataset_normal_DIB/monocyte/MO_104290.jpg
+SNE_901674.jpg,Neutrophil,big,irregular,segmented-bilobed,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/SNE_901674.jpg
+MO_423983.jpg,Monocyte,big,round,unsegmented-indented,low,loosely,no,frosted,purple blue,nil,nil,no,PBC_dataset_normal_DIB/monocyte/MO_423983.jpg
+BNE_944885.jpg,Neutrophil,big,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/BNE_944885.jpg
+EO_486480.jpg,Eosinophil,big,irregular,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_486480.jpg
+EO_524469.jpg,Eosinophil,big,round,segmented-multilobed,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_524469.jpg
+BA_120688.jpg,Basophil,small,round,irregular,low,densely,no,clear,light blue,coarse,purple,yes,PBC_dataset_normal_DIB/basophil/BA_120688.jpg
+EO_100884.jpg,Eosinophil,big,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_100884.jpg
+BA_296615.jpg,Basophil,small,round,irregular,low,densely,no,clear,light blue,coarse,purple,yes,PBC_dataset_normal_DIB/basophil/BA_296615.jpg
+SNE_140435.jpg,Neutrophil,big,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/SNE_140435.jpg
+BA_500713.jpg,Basophil,small,round,irregular,low,densely,no,clear,light blue,coarse,purple,yes,PBC_dataset_normal_DIB/basophil/BA_500713.jpg
+EO_500806.jpg,Eosinophil,big,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_500806.jpg
+SNE_488521.jpg,Neutrophil,big,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/SNE_488521.jpg
+LY_333022.jpg,Lymphocyte,small,round,unsegmented-round,high,densely,no,clear,blue,nil,nil,no,PBC_dataset_normal_DIB/lymphocyte/LY_333022.jpg
+LY_981011.jpg,Lymphocyte,small,round,unsegmented-round,high,densely,no,clear,purple blue,nil,nil,no,PBC_dataset_normal_DIB/lymphocyte/LY_981011.jpg
+BNE_316390.jpg,Neutrophil,big,round,unsegmented-band,low,loosely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/BNE_316390.jpg
+MO_181047.jpg,Monocyte,big,round,unsegmented-indented,low,loosely,yes,clear,light blue,nil,nil,no,PBC_dataset_normal_DIB/monocyte/MO_181047.jpg
+BA_569632.jpg,Basophil,small,round,segmented-bilobed,low,densely,no,clear,light blue,coarse,purple,yes,PBC_dataset_normal_DIB/basophil/BA_569632.jpg
+BA_868537.jpg,Basophil,small,round,segmented-multilobed,low,densely,no,clear,light blue,coarse,purple,yes,PBC_dataset_normal_DIB/basophil/BA_868537.jpg
+EO_305691.jpg,Eosinophil,big,round,segmented-multilobed,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_305691.jpg
+MO_377470.jpg,Monocyte,big,irregular,unsegmented-indented,low,loosely,yes,clear,light blue,nil,nil,no,PBC_dataset_normal_DIB/monocyte/MO_377470.jpg
+MO_701921.jpg,Monocyte,big,irregular,unsegmented-indented,low,densely,no,frosted,purple blue,nil,nil,no,PBC_dataset_normal_DIB/monocyte/MO_701921.jpg
+LY_363396.jpg,Lymphocyte,small,irregular,unsegmented-round,high,densely,no,clear,purple blue,nil,nil,no,PBC_dataset_normal_DIB/lymphocyte/LY_363396.jpg
+MO_950456.jpg,Monocyte,small,irregular,unsegmented-indented,low,loosely,no,frosted,light blue,nil,nil,no,PBC_dataset_normal_DIB/monocyte/MO_950456.jpg
+MO_792755.jpg,Monocyte,big,round,unsegmented-indented,low,loosely,no,frosted,blue,nil,nil,no,PBC_dataset_normal_DIB/monocyte/MO_792755.jpg
+BNE_860699.jpg,Neutrophil,big,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/BNE_860699.jpg
+LY_388079.jpg,Lymphocyte,small,irregular,unsegmented-round,high,densely,no,clear,blue,nil,nil,no,PBC_dataset_normal_DIB/lymphocyte/LY_388079.jpg
+SNE_30720.jpg,Neutrophil,big,round,segmented-multilobed,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/SNE_30720.jpg
+BNE_340421.jpg,Neutrophil,small,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/BNE_340421.jpg
+LY_320312.jpg,Lymphocyte,small,round,unsegmented-round,high,densely,no,frosted,blue,nil,nil,no,PBC_dataset_normal_DIB/lymphocyte/LY_320312.jpg
+SNE_518391.jpg,Neutrophil,big,round,segmented-multilobed,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/SNE_518391.jpg
+SNE_848740.jpg,Neutrophil,big,round,segmented-bilobed,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/SNE_848740.jpg
+BA_615482.jpg,Basophil,small,round,irregular,low,densely,no,clear,light blue,coarse,purple,yes,PBC_dataset_normal_DIB/basophil/BA_615482.jpg
+BNE_256260.jpg,Neutrophil,small,round,segmented-multilobed,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/BNE_256260.jpg
+EO_23089841.jpg,Eosinophil,small,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_23089841.jpg
+BA_346352.jpg,Basophil,small,round,irregular,low,densely,no,clear,light blue,coarse,purple,yes,PBC_dataset_normal_DIB/basophil/BA_346352.jpg
+EO_348138.jpg,Eosinophil,small,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_348138.jpg
+LY_193211.jpg,Lymphocyte,small,round,unsegmented-indented,high,densely,no,frosted,purple blue,nil,nil,no,PBC_dataset_normal_DIB/lymphocyte/LY_193211.jpg
+BNE_131711.jpg,Neutrophil,big,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/BNE_131711.jpg
+BNE_580553.jpg,Neutrophil,big,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/BNE_580553.jpg
+LY_499539.jpg,Lymphocyte,small,irregular,irregular,high,densely,no,clear,blue,nil,nil,no,PBC_dataset_normal_DIB/lymphocyte/LY_499539.jpg
+SNE_672698.jpg,Neutrophil,big,round,segmented-multilobed,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/SNE_672698.jpg
+MO_881031.jpg,Monocyte,big,irregular,unsegmented-indented,low,densely,yes,frosted,purple blue,nil,nil,no,PBC_dataset_normal_DIB/monocyte/MO_881031.jpg
+BNE_81939.jpg,Neutrophil,small,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/BNE_81939.jpg
+BNE_87643.jpg,Neutrophil,small,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/BNE_87643.jpg
+EO_273880.jpg,Eosinophil,small,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_273880.jpg
+BNE_763253.jpg,Neutrophil,big,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/BNE_763253.jpg
+SNE_589500.jpg,Neutrophil,small,irregular,segmented-bilobed,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/SNE_589500.jpg
+BA_385552.jpg,Basophil,small,round,segmented-bilobed,low,densely,no,clear,light blue,coarse,purple,yes,PBC_dataset_normal_DIB/basophil/BA_385552.jpg
+BA_331375.jpg,Basophil,big,irregular,segmented-multilobed,low,densely,no,clear,light blue,coarse,purple,yes,PBC_dataset_normal_DIB/basophil/BA_331375.jpg
+EO_434081.jpg,Eosinophil,big,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_434081.jpg
+EO_659964.jpg,Eosinophil,small,round,segmented-multilobed,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_659964.jpg
+BNE_243574.jpg,Neutrophil,big,round,unsegmented-band,low,densely,no,clear,light blue,small,purple,yes,PBC_dataset_normal_DIB/neutrophil/BNE_243574.jpg
+BA_196807.jpg,Basophil,big,round,segmented-multilobed,low,densely,no,clear,light blue,coarse,purple,yes,PBC_dataset_normal_DIB/basophil/BA_196807.jpg
+EO_732204.jpg,Eosinophil,big,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_732204.jpg
+EO_847491.jpg,Eosinophil,big,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_847491.jpg
+BA_887335.jpg,Basophil,small,round,unsegmented-band,low,densely,no,clear,light blue,coarse,purple,yes,PBC_dataset_normal_DIB/basophil/BA_887335.jpg
+EO_47754.jpg,Eosinophil,big,round,segmented-multilobed,low,loosely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_47754.jpg
+SNE_633335.jpg,Neutrophil,big,round,segmented-bilobed,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/SNE_633335.jpg
+EO_174412.jpg,Eosinophil,small,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_174412.jpg
+EO_767118.jpg,Eosinophil,big,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_767118.jpg
+SNE_808855.jpg,Neutrophil,big,irregular,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/SNE_808855.jpg
+BNE_315212.jpg,Neutrophil,big,irregular,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/BNE_315212.jpg
+BA_555760.jpg,Basophil,small,round,irregular,low,densely,no,clear,light blue,coarse,purple,yes,PBC_dataset_normal_DIB/basophil/BA_555760.jpg
+BA_330244.jpg,Basophil,small,round,segmented-multilobed,low,densely,no,clear,light blue,coarse,purple,yes,PBC_dataset_normal_DIB/basophil/BA_330244.jpg
+EO_240687.jpg,Eosinophil,small,round,segmented-multilobed,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_240687.jpg
+EO_291685.jpg,Eosinophil,big,round,segmented-multilobed,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_291685.jpg
+SNE_566153.jpg,Neutrophil,big,round,segmented-multilobed,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/SNE_566153.jpg
+MO_597310.jpg,Monocyte,big,irregular,unsegmented-indented,low,loosely,yes,frosted,blue,nil,nil,no,PBC_dataset_normal_DIB/monocyte/MO_597310.jpg
+MO_507377.jpg,Monocyte,small,round,unsegmented-indented,low,loosely,no,frosted,purple blue,nil,nil,no,PBC_dataset_normal_DIB/monocyte/MO_507377.jpg
+BNE_776969.jpg,Neutrophil,big,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/BNE_776969.jpg
+SNE_645203.jpg,Neutrophil,big,round,segmented-bilobed,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/SNE_645203.jpg
+EO_816399.jpg,Eosinophil,small,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_816399.jpg
+BA_147402.jpg,Basophil,big,round,segmented-bilobed,low,densely,no,clear,light blue,coarse,purple,yes,PBC_dataset_normal_DIB/basophil/BA_147402.jpg
+MO_842653.jpg,Monocyte,big,irregular,unsegmented-indented,low,loosely,no,frosted,blue,nil,nil,no,PBC_dataset_normal_DIB/monocyte/MO_842653.jpg
+MO_522395.jpg,Monocyte,big,irregular,irregular,low,loosely,yes,frosted,purple blue,nil,nil,no,PBC_dataset_normal_DIB/monocyte/MO_522395.jpg
+SNE_679601.jpg,Neutrophil,big,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/SNE_679601.jpg
+MO_362677.jpg,Monocyte,big,irregular,unsegmented-indented,low,loosely,no,clear,purple blue,nil,nil,no,PBC_dataset_normal_DIB/monocyte/MO_362677.jpg
+SNE_692597.jpg,Neutrophil,big,round,segmented-multilobed,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/SNE_692597.jpg
+EO_956212.jpg,Eosinophil,big,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_956212.jpg
+BA_700831.jpg,Basophil,small,round,irregular,low,densely,no,clear,light blue,coarse,purple,yes,PBC_dataset_normal_DIB/basophil/BA_700831.jpg
+EO_901206.jpg,Eosinophil,big,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_901206.jpg
+SNE_218093.jpg,Neutrophil,big,irregular,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/SNE_218093.jpg
+NEUTROPHIL_816359.jpg,Neutrophil,big,round,segmented-bilobed,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/NEUTROPHIL_816359.jpg
+BNE_203314.jpg,Neutrophil,big,round,unsegmented-band,low,densely,no,clear,light blue,small,purple,yes,PBC_dataset_normal_DIB/neutrophil/BNE_203314.jpg
+SNE_713759.jpg,Neutrophil,big,irregular,segmented-multilobed,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/SNE_713759.jpg
+SNE_502348.jpg,Neutrophil,big,round,segmented-bilobed,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/SNE_502348.jpg
+LY_671537.jpg,Lymphocyte,small,round,unsegmented-round,high,densely,no,frosted,purple blue,nil,nil,no,PBC_dataset_normal_DIB/lymphocyte/LY_671537.jpg
+SNE_374094.jpg,Neutrophil,big,round,segmented-multilobed,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/SNE_374094.jpg
+MO_612179.jpg,Monocyte,big,round,unsegmented-indented,low,loosely,no,frosted,purple blue,nil,nil,no,PBC_dataset_normal_DIB/monocyte/MO_612179.jpg
+LY_500326.jpg,Lymphocyte,small,round,unsegmented-round,high,densely,no,frosted,blue,nil,nil,no,PBC_dataset_normal_DIB/lymphocyte/LY_500326.jpg
+SNE_64091.jpg,Neutrophil,big,irregular,segmented-bilobed,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/SNE_64091.jpg
+EO_512539.jpg,Eosinophil,big,round,segmented-multilobed,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_512539.jpg
+MO_595972.jpg,Monocyte,big,irregular,unsegmented-indented,low,loosely,yes,frosted,purple blue,nil,nil,no,PBC_dataset_normal_DIB/monocyte/MO_595972.jpg
+EO_901002.jpg,Eosinophil,big,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_901002.jpg
+EO_178978.jpg,Eosinophil,small,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_178978.jpg
+LY_644595.jpg,Lymphocyte,small,round,unsegmented-indented,high,densely,no,clear,blue,nil,nil,no,PBC_dataset_normal_DIB/lymphocyte/LY_644595.jpg
+BA_250620.jpg,Basophil,small,round,segmented-bilobed,low,densely,no,clear,light blue,coarse,purple,yes,PBC_dataset_normal_DIB/basophil/BA_250620.jpg
+BNE_813359.jpg,Neutrophil,small,round,segmented-bilobed,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/BNE_813359.jpg
+EO_812799.jpg,Eosinophil,small,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_812799.jpg
+BNE_862462.jpg,Neutrophil,big,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/BNE_862462.jpg
+BA_178345.jpg,Basophil,small,round,segmented-multilobed,low,densely,no,clear,light blue,coarse,purple,yes,PBC_dataset_normal_DIB/basophil/BA_178345.jpg
+EO_285298.jpg,Eosinophil,big,irregular,irregular,low,loosely,no,clear,light blue,coarse,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_285298.jpg
+MO_836516.jpg,Monocyte,big,round,unsegmented-indented,low,densely,no,frosted,purple blue,nil,nil,no,PBC_dataset_normal_DIB/monocyte/MO_836516.jpg
+BNE_253464.jpg,Neutrophil,big,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/BNE_253464.jpg
+BNE_296916.jpg,Neutrophil,small,round,unsegmented-band,low,densely,no,clear,light blue,small,purple,yes,PBC_dataset_normal_DIB/neutrophil/BNE_296916.jpg
+MO_555398.jpg,Monocyte,small,round,unsegmented-indented,high,densely,no,frosted,blue,nil,nil,no,PBC_dataset_normal_DIB/monocyte/MO_555398.jpg
+LY_785608.jpg,Lymphocyte,small,round,unsegmented-round,high,densely,no,clear,blue,nil,nil,no,PBC_dataset_normal_DIB/lymphocyte/LY_785608.jpg
+BNE_206551.jpg,Neutrophil,big,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/BNE_206551.jpg
+EO_420606.jpg,Eosinophil,big,irregular,segmented-multilobed,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_420606.jpg
+EO_728292.jpg,Eosinophil,big,round,segmented-multilobed,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_728292.jpg
+SNE_32210.jpg,Neutrophil,big,irregular,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/SNE_32210.jpg
+EO_962063.jpg,Eosinophil,big,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_962063.jpg
+BNE_665149.jpg,Neutrophil,small,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/BNE_665149.jpg
+EO_72747.jpg,Eosinophil,big,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_72747.jpg
+EO_401601.jpg,Eosinophil,big,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_401601.jpg
+SNE_205163.jpg,Neutrophil,big,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/SNE_205163.jpg
+EO_995267.jpg,Eosinophil,big,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_995267.jpg
+EO_422401.jpg,Eosinophil,small,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_422401.jpg
+SNE_610007.jpg,Neutrophil,small,round,segmented-bilobed,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/SNE_610007.jpg
+EO_425258.jpg,Eosinophil,small,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_425258.jpg
+BNE_259972.jpg,Neutrophil,big,round,unsegmented-band,low,densely,no,clear,light blue,small,purple,yes,PBC_dataset_normal_DIB/neutrophil/BNE_259972.jpg
+EO_676375.jpg,Eosinophil,small,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_676375.jpg
+BA_60560.jpg,Basophil,small,round,irregular,low,densely,no,clear,light blue,coarse,purple,yes,PBC_dataset_normal_DIB/basophil/BA_60560.jpg
+SNE_605370.jpg,Neutrophil,small,irregular,segmented-bilobed,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/SNE_605370.jpg
+EO_188271.jpg,Eosinophil,small,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_188271.jpg
+BNE_954079.jpg,Neutrophil,big,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/BNE_954079.jpg
+SNE_893365.jpg,Neutrophil,big,round,segmented-bilobed,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/SNE_893365.jpg
+LY_776538.jpg,Lymphocyte,small,irregular,unsegmented-round,high,densely,no,frosted,purple blue,nil,nil,no,PBC_dataset_normal_DIB/lymphocyte/LY_776538.jpg
+EO_651856.jpg,Eosinophil,big,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_651856.jpg
+BNE_279168.jpg,Neutrophil,small,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/BNE_279168.jpg
+SNE_893880.jpg,Neutrophil,big,round,segmented-multilobed,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/SNE_893880.jpg
+BA_98903.jpg,Basophil,small,round,segmented-bilobed,low,densely,no,clear,light blue,coarse,purple,yes,PBC_dataset_normal_DIB/basophil/BA_98903.jpg
+SNE_415544.jpg,Neutrophil,big,irregular,segmented-bilobed,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/SNE_415544.jpg
+MO_959704.jpg,Monocyte,big,round,unsegmented-indented,high,densely,no,frosted,purple blue,nil,nil,no,PBC_dataset_normal_DIB/monocyte/MO_959704.jpg
+BA_93721.jpg,Basophil,big,round,segmented-bilobed,low,densely,no,clear,light blue,coarse,purple,yes,PBC_dataset_normal_DIB/basophil/BA_93721.jpg
+EO_187031.jpg,Eosinophil,big,round,segmented-multilobed,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_187031.jpg
+BA_581736.jpg,Basophil,small,round,unsegmented-band,low,densely,no,clear,light blue,coarse,purple,yes,PBC_dataset_normal_DIB/basophil/BA_581736.jpg
+MO_479670.jpg,Monocyte,big,round,unsegmented-indented,low,loosely,yes,frosted,purple blue,nil,nil,no,PBC_dataset_normal_DIB/monocyte/MO_479670.jpg
+LY_32523.jpg,Lymphocyte,small,irregular,unsegmented-round,high,densely,no,frosted,blue,nil,nil,no,PBC_dataset_normal_DIB/lymphocyte/LY_32523.jpg
+BA_55966.jpg,Basophil,small,round,irregular,low,densely,no,clear,light blue,coarse,purple,yes,PBC_dataset_normal_DIB/basophil/BA_55966.jpg
+BA_845828.jpg,Basophil,big,irregular,segmented-bilobed,low,densely,no,clear,light blue,coarse,purple,yes,PBC_dataset_normal_DIB/basophil/BA_845828.jpg
+SNE_181343.jpg,Neutrophil,small,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/SNE_181343.jpg
+MO_510602.jpg,Monocyte,small,round,unsegmented-indented,low,loosely,no,frosted,purple blue,nil,nil,no,PBC_dataset_normal_DIB/monocyte/MO_510602.jpg
+BNE_773284.jpg,Neutrophil,small,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/BNE_773284.jpg
+BA_229935.jpg,Basophil,small,round,segmented-bilobed,low,densely,no,clear,light blue,coarse,purple,yes,PBC_dataset_normal_DIB/basophil/BA_229935.jpg
+EO_580802.jpg,Eosinophil,big,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_580802.jpg
+EO_823567.jpg,Eosinophil,big,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_823567.jpg
+MO_382707.jpg,Monocyte,big,irregular,unsegmented-indented,low,loosely,no,frosted,purple blue,nil,nil,no,PBC_dataset_normal_DIB/monocyte/MO_382707.jpg
+LY_718085.jpg,Lymphocyte,small,irregular,unsegmented-round,high,densely,no,frosted,blue,nil,nil,no,PBC_dataset_normal_DIB/lymphocyte/LY_718085.jpg
+MO_121190.jpg,Monocyte,small,round,unsegmented-indented,low,densely,no,frosted,purple blue,nil,nil,no,PBC_dataset_normal_DIB/monocyte/MO_121190.jpg
+MO_87252.jpg,Monocyte,big,round,unsegmented-indented,low,densely,no,frosted,purple blue,nil,nil,no,PBC_dataset_normal_DIB/monocyte/MO_87252.jpg
+BNE_664333.jpg,Neutrophil,big,irregular,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/BNE_664333.jpg
+MO_939651.jpg,Monocyte,big,round,unsegmented-indented,low,loosely,no,frosted,purple blue,nil,nil,no,PBC_dataset_normal_DIB/monocyte/MO_939651.jpg
+SNE_873947.jpg,Neutrophil,big,round,segmented-bilobed,low,densely,yes,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/SNE_873947.jpg
+BNE_331752.jpg,Neutrophil,small,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/BNE_331752.jpg
+EO_74267.jpg,Eosinophil,small,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_74267.jpg
+EO_859907.jpg,Eosinophil,small,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_859907.jpg
+LY_925681.jpg,Lymphocyte,small,round,unsegmented-round,high,densely,no,frosted,blue,nil,nil,no,PBC_dataset_normal_DIB/lymphocyte/LY_925681.jpg
+SNE_87596.jpg,Neutrophil,small,round,segmented-bilobed,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/SNE_87596.jpg
+LY_60114.jpg,Lymphocyte,small,irregular,unsegmented-round,high,densely,no,frosted,blue,nil,nil,no,PBC_dataset_normal_DIB/lymphocyte/LY_60114.jpg
+SNE_304452.jpg,Neutrophil,small,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/SNE_304452.jpg
+MO_427035.jpg,Monocyte,big,irregular,unsegmented-indented,low,loosely,no,frosted,purple blue,nil,nil,no,PBC_dataset_normal_DIB/monocyte/MO_427035.jpg
+EO_981447.jpg,Eosinophil,small,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_981447.jpg
+SNE_224062.jpg,Neutrophil,big,irregular,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/SNE_224062.jpg
+EO_566829.jpg,Eosinophil,big,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_566829.jpg
+BNE_690093.jpg,Neutrophil,big,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/BNE_690093.jpg
+SNE_891096.jpg,Neutrophil,big,round,segmented-bilobed,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/SNE_891096.jpg
+BA_583166.jpg,Basophil,big,round,irregular,low,densely,no,clear,light blue,coarse,purple,yes,PBC_dataset_normal_DIB/basophil/BA_583166.jpg
+BA_600449.jpg,Basophil,big,round,segmented-multilobed,low,densely,no,clear,light blue,coarse,purple,yes,PBC_dataset_normal_DIB/basophil/BA_600449.jpg
+EO_580287.jpg,Eosinophil,small,round,unsegmented-band,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_580287.jpg
+EO_749176.jpg,Eosinophil,small,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_749176.jpg
+EO_90576.jpg,Eosinophil,big,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_90576.jpg
+BNE_233886.jpg,Neutrophil,big,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/BNE_233886.jpg
+BNE_640458.jpg,Neutrophil,big,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/BNE_640458.jpg
+BNE_77911.jpg,Neutrophil,small,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/BNE_77911.jpg
+EO_851864.jpg,Eosinophil,big,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_851864.jpg
+EO_565158.jpg,Eosinophil,big,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_565158.jpg
+BA_533618.jpg,Basophil,small,round,irregular,low,densely,no,clear,light blue,coarse,purple,yes,PBC_dataset_normal_DIB/basophil/BA_533618.jpg
+LY_136218.jpg,Lymphocyte,small,round,unsegmented-round,high,densely,no,clear,light blue,nil,nil,no,PBC_dataset_normal_DIB/lymphocyte/LY_136218.jpg
+LY_156281.jpg,Lymphocyte,small,round,unsegmented-indented,high,densely,no,clear,blue,nil,nil,no,PBC_dataset_normal_DIB/lymphocyte/LY_156281.jpg
+EO_488297.jpg,Eosinophil,big,irregular,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_488297.jpg
+EO_222109.jpg,Eosinophil,big,round,unsegmented-indented,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_222109.jpg
+MO_375691.jpg,Monocyte,big,round,unsegmented-indented,low,densely,no,frosted,purple blue,nil,nil,no,PBC_dataset_normal_DIB/monocyte/MO_375691.jpg
+MO_807936.jpg,Monocyte,big,irregular,unsegmented-round,low,densely,no,frosted,blue,nil,nil,no,PBC_dataset_normal_DIB/monocyte/MO_807936.jpg
+LY_472472.jpg,Lymphocyte,small,round,unsegmented-indented,high,densely,no,frosted,blue,nil,nil,no,PBC_dataset_normal_DIB/lymphocyte/LY_472472.jpg
+EO_136333.jpg,Eosinophil,small,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_136333.jpg
+BNE_360932.jpg,Neutrophil,small,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/BNE_360932.jpg
+EO_784861.jpg,Eosinophil,small,round,unsegmented-band,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_784861.jpg
+SNE_13626.jpg,Neutrophil,big,irregular,segmented-bilobed,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/SNE_13626.jpg
+EO_752024.jpg,Eosinophil,small,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_752024.jpg
+EO_675086.jpg,Eosinophil,big,irregular,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_675086.jpg
+SNE_30327.jpg,Neutrophil,big,round,segmented-multilobed,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/SNE_30327.jpg
+SNE_287997.jpg,Neutrophil,big,irregular,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/SNE_287997.jpg
+BA_221648.jpg,Basophil,big,round,irregular,low,densely,no,clear,light blue,coarse,purple,yes,PBC_dataset_normal_DIB/basophil/BA_221648.jpg
+SNE_775439.jpg,Neutrophil,small,round,segmented-multilobed,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/SNE_775439.jpg
+SNE_134204.jpg,Neutrophil,big,round,segmented-bilobed,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/SNE_134204.jpg
+MO_973782.jpg,Monocyte,big,round,unsegmented-indented,high,densely,no,frosted,blue,nil,nil,no,PBC_dataset_normal_DIB/monocyte/MO_973782.jpg
+BNE_982036.jpg,Neutrophil,small,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/BNE_982036.jpg
+SNE_183410.jpg,Neutrophil,small,round,segmented-bilobed,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/SNE_183410.jpg
+EO_908273.jpg,Eosinophil,big,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_908273.jpg
+EO_928662.jpg,Eosinophil,small,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_928662.jpg
+EO_700078.jpg,Eosinophil,big,round,segmented-multilobed,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_700078.jpg
+EO_140611.jpg,Eosinophil,small,round,segmented-multilobed,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_140611.jpg
+SNE_353210.jpg,Neutrophil,big,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/SNE_353210.jpg
+SNE_778015.jpg,Neutrophil,small,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/SNE_778015.jpg
+MO_208701.jpg,Monocyte,big,irregular,unsegmented-indented,low,loosely,yes,frosted,light blue,nil,nil,no,PBC_dataset_normal_DIB/monocyte/MO_208701.jpg
+BA_842435.jpg,Basophil,small,round,irregular,low,densely,no,clear,light blue,coarse,purple,yes,PBC_dataset_normal_DIB/basophil/BA_842435.jpg
+LY_459766.jpg,Lymphocyte,small,round,unsegmented-indented,high,densely,no,frosted,purple blue,nil,nil,no,PBC_dataset_normal_DIB/lymphocyte/LY_459766.jpg
+EO_657836.jpg,Eosinophil,big,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_657836.jpg
+EO_651122.jpg,Eosinophil,big,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_651122.jpg
+BA_312613.jpg,Basophil,big,round,irregular,low,densely,no,clear,light blue,coarse,purple,yes,PBC_dataset_normal_DIB/basophil/BA_312613.jpg
+SNE_117404.jpg,Neutrophil,big,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/SNE_117404.jpg
+BNE_989783.jpg,Neutrophil,big,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/BNE_989783.jpg
+BA_669399.jpg,Basophil,small,round,segmented-multilobed,low,densely,no,clear,light blue,coarse,purple,yes,PBC_dataset_normal_DIB/basophil/BA_669399.jpg
+SNE_207129.jpg,Neutrophil,big,round,segmented-multilobed,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/SNE_207129.jpg
+EO_25099.jpg,Eosinophil,big,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_25099.jpg
+BA_379570.jpg,Basophil,small,irregular,irregular,low,densely,no,clear,light blue,coarse,purple,yes,PBC_dataset_normal_DIB/basophil/BA_379570.jpg
+EO_662683.jpg,Eosinophil,big,irregular,segmented-multilobed,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_662683.jpg
+MO_898984.jpg,Monocyte,big,round,unsegmented-indented,low,densely,no,frosted,purple blue,nil,nil,no,PBC_dataset_normal_DIB/monocyte/MO_898984.jpg
+BNE_631061.jpg,Neutrophil,small,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/BNE_631061.jpg
+LY_644290.jpg,Lymphocyte,small,irregular,unsegmented-round,high,loosely,no,clear,purple blue,nil,nil,no,PBC_dataset_normal_DIB/lymphocyte/LY_644290.jpg
+LY_228644.jpg,Lymphocyte,small,round,unsegmented-round,high,densely,no,frosted,blue,nil,nil,no,PBC_dataset_normal_DIB/lymphocyte/LY_228644.jpg
+BNE_734743.jpg,Neutrophil,big,irregular,unsegmented-band,low,densely,yes,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/BNE_734743.jpg
+EO_854168.jpg,Eosinophil,big,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_854168.jpg
+EO_99246.jpg,Eosinophil,big,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_99246.jpg
+EO_850777.jpg,Eosinophil,big,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_850777.jpg
+BNE_223780.jpg,Neutrophil,small,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/BNE_223780.jpg
+BA_945489.jpg,Basophil,big,irregular,segmented-bilobed,low,densely,no,clear,light blue,coarse,purple,yes,PBC_dataset_normal_DIB/basophil/BA_945489.jpg
+SNE_416964.jpg,Neutrophil,small,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/SNE_416964.jpg
+BA_462686.jpg,Basophil,big,round,irregular,low,densely,no,clear,light blue,coarse,purple,yes,PBC_dataset_normal_DIB/basophil/BA_462686.jpg
+BA_608126.jpg,Basophil,small,round,segmented-bilobed,low,densely,no,clear,light blue,coarse,purple,yes,PBC_dataset_normal_DIB/basophil/BA_608126.jpg
+EO_580259.jpg,Eosinophil,small,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_580259.jpg
+MO_923859.jpg,Monocyte,big,round,unsegmented-indented,low,loosely,no,frosted,blue,nil,nil,no,PBC_dataset_normal_DIB/monocyte/MO_923859.jpg
+SNE_656626.jpg,Neutrophil,small,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/SNE_656626.jpg
+EO_344782.jpg,Eosinophil,big,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_344782.jpg
+MO_847530.jpg,Monocyte,big,round,unsegmented-indented,low,densely,yes,frosted,purple blue,nil,nil,no,PBC_dataset_normal_DIB/monocyte/MO_847530.jpg
+LY_86378.jpg,Lymphocyte,small,round,unsegmented-round,high,densely,no,frosted,blue,nil,nil,no,PBC_dataset_normal_DIB/lymphocyte/LY_86378.jpg
+EO_948738.jpg,Eosinophil,big,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_948738.jpg
+BNE_2019.jpg,Neutrophil,small,round,unsegmented-band,low,densely,no,clear,light blue,small,purple,yes,PBC_dataset_normal_DIB/neutrophil/BNE_2019.jpg
+BNE_233841.jpg,Neutrophil,small,round,segmented-bilobed,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/BNE_233841.jpg
+EO_859353.jpg,Eosinophil,big,round,unsegmented-band,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_859353.jpg
+EO_94450.jpg,Eosinophil,big,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_94450.jpg
+LY_736101.jpg,Lymphocyte,small,round,unsegmented-round,high,densely,no,frosted,blue,nil,nil,no,PBC_dataset_normal_DIB/lymphocyte/LY_736101.jpg
+SNE_995183.jpg,Neutrophil,big,round,segmented-bilobed,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/SNE_995183.jpg
+EO_77567.jpg,Eosinophil,big,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_77567.jpg
+EO_342472.jpg,Eosinophil,small,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_342472.jpg
+EO_692427.jpg,Eosinophil,small,round,segmented-multilobed,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_692427.jpg
+EO_114325.jpg,Eosinophil,small,round,segmented-multilobed,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_114325.jpg
+SNE_10487.jpg,Neutrophil,big,irregular,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/SNE_10487.jpg
+EO_474344.jpg,Eosinophil,small,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_474344.jpg
+MO_812031.jpg,Monocyte,big,irregular,unsegmented-indented,low,loosely,yes,frosted,blue,nil,nil,no,PBC_dataset_normal_DIB/monocyte/MO_812031.jpg
+EO_592257.jpg,Eosinophil,big,round,unsegmented-band,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_592257.jpg
+EO_844230.jpg,Eosinophil,big,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_844230.jpg
+LY_948750.jpg,Lymphocyte,small,round,unsegmented-round,high,densely,no,frosted,purple blue,nil,nil,no,PBC_dataset_normal_DIB/lymphocyte/LY_948750.jpg
+SNE_310178.jpg,Neutrophil,big,irregular,segmented-multilobed,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/SNE_310178.jpg
+BNE_191922.jpg,Neutrophil,small,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/BNE_191922.jpg
+MO_788806.jpg,Monocyte,big,irregular,unsegmented-indented,low,densely,yes,frosted,purple blue,nil,nil,no,PBC_dataset_normal_DIB/monocyte/MO_788806.jpg
+SNE_477716.jpg,Neutrophil,small,round,segmented-bilobed,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/SNE_477716.jpg
+BA_273021.jpg,Basophil,small,round,unsegmented-indented,low,densely,no,clear,light blue,coarse,purple,yes,PBC_dataset_normal_DIB/basophil/BA_273021.jpg
+SNE_465184.jpg,Neutrophil,big,round,segmented-bilobed,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/SNE_465184.jpg
+EO_731622.jpg,Eosinophil,big,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_731622.jpg
+MO_543694.jpg,Monocyte,big,round,unsegmented-indented,low,densely,no,frosted,purple blue,nil,nil,no,PBC_dataset_normal_DIB/monocyte/MO_543694.jpg
+BA_237864.jpg,Basophil,small,round,irregular,low,densely,no,clear,light blue,coarse,purple,yes,PBC_dataset_normal_DIB/basophil/BA_237864.jpg
+EO_50923.jpg,Eosinophil,big,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_50923.jpg
+EO_243737.jpg,Eosinophil,big,round,segmented-multilobed,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_243737.jpg
+SNE_503826.jpg,Neutrophil,big,round,segmented-multilobed,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/SNE_503826.jpg
+EO_318207.jpg,Eosinophil,small,round,segmented-multilobed,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_318207.jpg
+BNE_920389.jpg,Neutrophil,small,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/BNE_920389.jpg
+MO_768683.jpg,Monocyte,big,round,unsegmented-indented,low,densely,no,frosted,blue,nil,nil,no,PBC_dataset_normal_DIB/monocyte/MO_768683.jpg
+SNE_883350.jpg,Neutrophil,big,round,segmented-multilobed,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/SNE_883350.jpg
+SNE_969977.jpg,Neutrophil,small,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/SNE_969977.jpg
+EO_459049.jpg,Eosinophil,small,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_459049.jpg
+EO_489904.jpg,Eosinophil,small,round,segmented-multilobed,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_489904.jpg
+BNE_143161.jpg,Neutrophil,small,round,segmented-bilobed,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/BNE_143161.jpg
+SNE_899888.jpg,Neutrophil,big,irregular,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/SNE_899888.jpg
+BNE_464962.jpg,Neutrophil,big,round,unsegmented-band,low,densely,yes,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/BNE_464962.jpg
+EO_390994.jpg,Eosinophil,big,irregular,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_390994.jpg
+SNE_556448.jpg,Neutrophil,big,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/SNE_556448.jpg
+SNE_273217.jpg,Neutrophil,big,round,segmented-bilobed,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/SNE_273217.jpg
+EO_554617.jpg,Eosinophil,big,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_554617.jpg
+MO_243203.jpg,Monocyte,big,irregular,irregular,low,loosely,yes,clear,light blue,nil,nil,no,PBC_dataset_normal_DIB/monocyte/MO_243203.jpg
+MO_133442.jpg,Monocyte,small,round,unsegmented-indented,low,loosely,no,frosted,purple blue,nil,nil,no,PBC_dataset_normal_DIB/monocyte/MO_133442.jpg
+SNE_670650.jpg,Neutrophil,small,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/SNE_670650.jpg
+BNE_494447.jpg,Neutrophil,small,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/BNE_494447.jpg
+LY_953443.jpg,Lymphocyte,small,irregular,unsegmented-round,high,densely,no,frosted,blue,nil,nil,no,PBC_dataset_normal_DIB/lymphocyte/LY_953443.jpg
+EO_322937.jpg,Eosinophil,small,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_322937.jpg
+EO_690157.jpg,Eosinophil,small,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_690157.jpg
+BNE_856701.jpg,Neutrophil,big,irregular,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/BNE_856701.jpg
+BNE_309792.jpg,Neutrophil,small,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/BNE_309792.jpg
+EO_663448.jpg,Eosinophil,small,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_663448.jpg
+LY_776513.jpg,Lymphocyte,small,irregular,unsegmented-round,high,densely,no,clear,purple blue,nil,nil,no,PBC_dataset_normal_DIB/lymphocyte/LY_776513.jpg
+SNE_902951.jpg,Neutrophil,small,round,segmented-multilobed,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/SNE_902951.jpg
+SNE_249286.jpg,Neutrophil,big,round,segmented-bilobed,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/SNE_249286.jpg
+EO_198665.jpg,Eosinophil,small,irregular,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_198665.jpg
+BNE_393835.jpg,Neutrophil,small,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/BNE_393835.jpg
+BNE_202023.jpg,Neutrophil,big,irregular,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/BNE_202023.jpg
+EO_112172.jpg,Eosinophil,big,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_112172.jpg
+EO_910529.jpg,Eosinophil,big,round,unsegmented-band,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_910529.jpg
+EO_401749.jpg,Eosinophil,small,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_401749.jpg
+LY_517503.jpg,Lymphocyte,small,round,unsegmented-round,high,densely,no,frosted,blue,nil,nil,no,PBC_dataset_normal_DIB/lymphocyte/LY_517503.jpg
+BA_773446.jpg,Basophil,small,round,irregular,low,densely,no,clear,light blue,coarse,purple,yes,PBC_dataset_normal_DIB/basophil/BA_773446.jpg
+MO_250567.jpg,Monocyte,small,round,unsegmented-indented,low,loosely,no,frosted,purple blue,nil,nil,no,PBC_dataset_normal_DIB/monocyte/MO_250567.jpg
+BNE_518814.jpg,Neutrophil,small,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/BNE_518814.jpg
+SNE_449711.jpg,Neutrophil,big,round,segmented-multilobed,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/SNE_449711.jpg
+BA_176200.jpg,Basophil,big,round,unsegmented-band,low,densely,no,clear,light blue,coarse,purple,yes,PBC_dataset_normal_DIB/basophil/BA_176200.jpg
+BNE_317666.jpg,Neutrophil,small,irregular,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/BNE_317666.jpg
+LY_137344.jpg,Lymphocyte,small,irregular,unsegmented-round,high,densely,no,frosted,purple blue,nil,nil,no,PBC_dataset_normal_DIB/lymphocyte/LY_137344.jpg
+EO_809683.jpg,Eosinophil,big,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_809683.jpg
+EO_78863.jpg,Eosinophil,big,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_78863.jpg
+LY_894569.jpg,Lymphocyte,small,irregular,irregular,high,densely,no,frosted,purple blue,nil,nil,no,PBC_dataset_normal_DIB/lymphocyte/LY_894569.jpg
+EO_872983.jpg,Eosinophil,big,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_872983.jpg
+EO_451304.jpg,Eosinophil,big,round,unsegmented-band,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_451304.jpg
+BNE_774908.jpg,Neutrophil,small,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/BNE_774908.jpg
+BA_455128.jpg,Basophil,small,round,irregular,low,densely,no,clear,light blue,coarse,purple,yes,PBC_dataset_normal_DIB/basophil/BA_455128.jpg
+BNE_989323.jpg,Neutrophil,small,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/BNE_989323.jpg
+EO_624586.jpg,Eosinophil,big,irregular,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_624586.jpg
+MO_688290.jpg,Monocyte,big,round,unsegmented-indented,low,densely,no,frosted,purple blue,nil,nil,no,PBC_dataset_normal_DIB/monocyte/MO_688290.jpg
+EO_97617.jpg,Eosinophil,big,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_97617.jpg
+BNE_357413.jpg,Neutrophil,small,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/BNE_357413.jpg
+EO_48961.jpg,Eosinophil,small,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_48961.jpg
+MO_503237.jpg,Monocyte,small,round,unsegmented-round,low,loosely,no,frosted,blue,nil,nil,no,PBC_dataset_normal_DIB/monocyte/MO_503237.jpg
+EO_167439.jpg,Eosinophil,big,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_167439.jpg
+BNE_277695.jpg,Neutrophil,small,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/BNE_277695.jpg
+MO_432101.jpg,Monocyte,big,irregular,irregular,low,loosely,yes,frosted,blue,nil,nil,no,PBC_dataset_normal_DIB/monocyte/MO_432101.jpg
+LY_19758.jpg,Lymphocyte,small,irregular,unsegmented-round,high,densely,no,clear,blue,nil,nil,no,PBC_dataset_normal_DIB/lymphocyte/LY_19758.jpg
+EO_503298.jpg,Eosinophil,small,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_503298.jpg
+SNE_646915.jpg,Neutrophil,big,irregular,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/SNE_646915.jpg
+BA_582405.jpg,Basophil,small,round,irregular,low,densely,no,clear,light blue,coarse,purple,yes,PBC_dataset_normal_DIB/basophil/BA_582405.jpg
+EO_262006.jpg,Eosinophil,small,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_262006.jpg
+EO_697422.jpg,Eosinophil,big,irregular,unsegmented-band,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_697422.jpg
+BNE_953017.jpg,Neutrophil,big,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/BNE_953017.jpg
+MO_781541.jpg,Monocyte,big,round,unsegmented-indented,low,loosely,no,frosted,blue,nil,nil,no,PBC_dataset_normal_DIB/monocyte/MO_781541.jpg
+BA_665657.jpg,Basophil,big,irregular,irregular,low,densely,no,clear,light blue,coarse,purple,yes,PBC_dataset_normal_DIB/basophil/BA_665657.jpg
+EO_894574.jpg,Eosinophil,small,round,unsegmented-band,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_894574.jpg
+BA_629211.jpg,Basophil,small,round,irregular,low,densely,no,clear,light blue,coarse,purple,yes,PBC_dataset_normal_DIB/basophil/BA_629211.jpg
+EO_233895.jpg,Eosinophil,big,round,unsegmented-band,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_233895.jpg
+EO_390478.jpg,Eosinophil,small,round,segmented-multilobed,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_390478.jpg
+SNE_198347.jpg,Neutrophil,big,irregular,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/SNE_198347.jpg
+BNE_296618.jpg,Neutrophil,big,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/BNE_296618.jpg
+BNE_698291.jpg,Neutrophil,big,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/BNE_698291.jpg
+BA_636364.jpg,Basophil,small,round,irregular,low,densely,no,clear,light blue,coarse,purple,yes,PBC_dataset_normal_DIB/basophil/BA_636364.jpg
+EO_740068.jpg,Eosinophil,big,round,unsegmented-band,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_740068.jpg
+LY_741548.jpg,Lymphocyte,small,round,unsegmented-round,high,densely,no,clear,purple blue,nil,nil,no,PBC_dataset_normal_DIB/lymphocyte/LY_741548.jpg
+BNE_276258.jpg,Neutrophil,small,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/BNE_276258.jpg
+EO_697519.jpg,Eosinophil,big,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_697519.jpg
+EO_11818.jpg,Eosinophil,small,round,segmented-multilobed,low,loosely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_11818.jpg
+SNE_139869.jpg,Neutrophil,big,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/SNE_139869.jpg
+SNE_876406.jpg,Neutrophil,big,round,segmented-bilobed,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/SNE_876406.jpg
+SNE_70315.jpg,Neutrophil,big,round,segmented-multilobed,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/SNE_70315.jpg
+SNE_12708.jpg,Neutrophil,big,round,segmented-multilobed,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/SNE_12708.jpg
+BA_692284.jpg,Basophil,small,round,irregular,low,densely,no,clear,light blue,coarse,purple,yes,PBC_dataset_normal_DIB/basophil/BA_692284.jpg
+LY_800603.jpg,Lymphocyte,small,round,unsegmented-round,high,densely,no,frosted,blue,nil,nil,no,PBC_dataset_normal_DIB/lymphocyte/LY_800603.jpg
+EO_647911.jpg,Eosinophil,big,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_647911.jpg
+EO_73774.jpg,Eosinophil,big,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_73774.jpg
+EO_809901.jpg,Eosinophil,big,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_809901.jpg
+LY_47439.jpg,Lymphocyte,small,round,unsegmented-round,high,densely,no,frosted,blue,nil,nil,no,PBC_dataset_normal_DIB/lymphocyte/LY_47439.jpg
+BNE_590664.jpg,Neutrophil,big,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/BNE_590664.jpg
+EO_900162.jpg,Eosinophil,big,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_900162.jpg
+EO_642190.jpg,Eosinophil,big,round,segmented-multilobed,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_642190.jpg
+EO_378811.jpg,Eosinophil,small,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_378811.jpg
+EO_215761.jpg,Eosinophil,big,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_215761.jpg
+EO_521292.jpg,Eosinophil,big,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_521292.jpg
+EO_850494.jpg,Eosinophil,big,round,segmented-multilobed,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_850494.jpg
+BNE_496119.jpg,Neutrophil,big,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/BNE_496119.jpg
+SNE_838035.jpg,Neutrophil,big,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/SNE_838035.jpg
+MO_987913.jpg,Monocyte,big,round,unsegmented-indented,low,loosely,no,frosted,light blue,nil,nil,no,PBC_dataset_normal_DIB/monocyte/MO_987913.jpg
+MO_774156.jpg,Monocyte,big,irregular,irregular,low,loosely,yes,frosted,purple blue,nil,nil,no,PBC_dataset_normal_DIB/monocyte/MO_774156.jpg
+EO_146612.jpg,Eosinophil,small,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_146612.jpg
+EO_741404.jpg,Eosinophil,big,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_741404.jpg
+BNE_142830.jpg,Neutrophil,small,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/BNE_142830.jpg
+MO_665320.jpg,Monocyte,big,irregular,unsegmented-indented,low,loosely,no,frosted,purple blue,nil,nil,no,PBC_dataset_normal_DIB/monocyte/MO_665320.jpg
+BA_812946.jpg,Basophil,small,round,irregular,low,densely,no,clear,light blue,coarse,purple,yes,PBC_dataset_normal_DIB/basophil/BA_812946.jpg
+LY_967233.jpg,Lymphocyte,small,round,unsegmented-round,high,densely,no,clear,blue,nil,nil,no,PBC_dataset_normal_DIB/lymphocyte/LY_967233.jpg
+EO_278646.jpg,Eosinophil,big,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_278646.jpg
+EO_454445.jpg,Eosinophil,big,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_454445.jpg
+MO_732547.jpg,Monocyte,big,round,unsegmented-indented,low,densely,no,frosted,blue,nil,nil,no,PBC_dataset_normal_DIB/monocyte/MO_732547.jpg
+BA_509334.jpg,Basophil,small,round,irregular,low,densely,no,clear,light blue,coarse,purple,yes,PBC_dataset_normal_DIB/basophil/BA_509334.jpg
+BA_746754.jpg,Basophil,small,round,segmented-bilobed,low,densely,no,clear,light blue,coarse,purple,yes,PBC_dataset_normal_DIB/basophil/BA_746754.jpg
+BA_679849.jpg,Basophil,small,round,segmented-bilobed,low,densely,no,clear,light blue,coarse,purple,yes,PBC_dataset_normal_DIB/basophil/BA_679849.jpg
+EO_775512.jpg,Eosinophil,big,irregular,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_775512.jpg
+EO_711696.jpg,Eosinophil,big,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_711696.jpg
+BA_446850.jpg,Basophil,small,round,irregular,low,densely,no,clear,light blue,coarse,purple,yes,PBC_dataset_normal_DIB/basophil/BA_446850.jpg
+BNE_608268.jpg,Neutrophil,small,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/BNE_608268.jpg
+BA_177230.jpg,Basophil,small,round,segmented-multilobed,low,densely,no,clear,light blue,coarse,purple,yes,PBC_dataset_normal_DIB/basophil/BA_177230.jpg
+MO_500297.jpg,Monocyte,big,irregular,unsegmented-indented,low,loosely,no,frosted,blue,nil,nil,no,PBC_dataset_normal_DIB/monocyte/MO_500297.jpg
+SNE_319893.jpg,Neutrophil,big,round,segmented-multilobed,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/SNE_319893.jpg
+BNE_358190.jpg,Neutrophil,big,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/BNE_358190.jpg
+EO_706620.jpg,Eosinophil,big,irregular,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_706620.jpg
+MO_963169.jpg,Monocyte,big,irregular,unsegmented-indented,low,densely,yes,frosted,blue,nil,nil,no,PBC_dataset_normal_DIB/monocyte/MO_963169.jpg
+SNE_33661.jpg,Neutrophil,big,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/SNE_33661.jpg
+SNE_833646.jpg,Neutrophil,small,round,segmented-bilobed,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/SNE_833646.jpg
+EO_324596.jpg,Eosinophil,small,round,unsegmented-indented,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_324596.jpg
+MO_258431.jpg,Monocyte,small,round,unsegmented-indented,low,loosely,no,frosted,purple blue,nil,nil,no,PBC_dataset_normal_DIB/monocyte/MO_258431.jpg
+EO_902685.jpg,Eosinophil,big,round,segmented-multilobed,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_902685.jpg
+MO_363879.jpg,Monocyte,big,irregular,unsegmented-indented,low,loosely,yes,frosted,blue,nil,nil,no,PBC_dataset_normal_DIB/monocyte/MO_363879.jpg
+EO_532512.jpg,Eosinophil,big,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_532512.jpg
+BA_618018.jpg,Basophil,small,round,segmented-bilobed,low,densely,no,clear,light blue,coarse,purple,yes,PBC_dataset_normal_DIB/basophil/BA_618018.jpg
+EO_15818.jpg,Eosinophil,big,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_15818.jpg
+BNE_605529.jpg,Neutrophil,small,round,unsegmented-band,low,densely,yes,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/BNE_605529.jpg
+MO_7582.jpg,Monocyte,big,round,unsegmented-indented,low,densely,yes,frosted,purple blue,nil,nil,no,PBC_dataset_normal_DIB/monocyte/MO_7582.jpg
+BNE_438674.jpg,Neutrophil,small,round,irregular,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/BNE_438674.jpg
+MO_340650.jpg,Monocyte,big,irregular,unsegmented-indented,low,loosely,yes,frosted,light blue,nil,nil,no,PBC_dataset_normal_DIB/monocyte/MO_340650.jpg
+SNE_651622.jpg,Neutrophil,small,round,segmented-bilobed,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/SNE_651622.jpg
+SNE_801347.jpg,Neutrophil,big,irregular,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/SNE_801347.jpg
+LY_893448.jpg,Lymphocyte,small,round,unsegmented-round,high,densely,no,frosted,blue,nil,nil,no,PBC_dataset_normal_DIB/lymphocyte/LY_893448.jpg
+BNE_136347.jpg,Neutrophil,big,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/BNE_136347.jpg
+SNE_929963.jpg,Neutrophil,big,irregular,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/SNE_929963.jpg
+BNE_47650.jpg,Neutrophil,small,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/BNE_47650.jpg
+LY_642004.jpg,Lymphocyte,small,round,unsegmented-round,high,densely,no,frosted,blue,nil,nil,no,PBC_dataset_normal_DIB/lymphocyte/LY_642004.jpg
+MO_312237.jpg,Monocyte,big,round,unsegmented-indented,low,loosely,no,clear,purple blue,nil,nil,no,PBC_dataset_normal_DIB/monocyte/MO_312237.jpg
+SNE_497960.jpg,Neutrophil,big,round,segmented-multilobed,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/SNE_497960.jpg
+EO_379388.jpg,Eosinophil,big,irregular,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_379388.jpg
+MO_56423.jpg,Monocyte,small,round,unsegmented-indented,high,loosely,no,frosted,blue,nil,nil,no,PBC_dataset_normal_DIB/monocyte/MO_56423.jpg
+BA_208485.jpg,Basophil,small,round,irregular,low,densely,no,clear,light blue,coarse,purple,yes,PBC_dataset_normal_DIB/basophil/BA_208485.jpg
+EO_445288.jpg,Eosinophil,big,round,segmented-multilobed,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_445288.jpg
+MO_525648.jpg,Monocyte,big,irregular,unsegmented-indented,low,loosely,no,frosted,purple blue,nil,nil,no,PBC_dataset_normal_DIB/monocyte/MO_525648.jpg
+EO_132073.jpg,Eosinophil,small,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_132073.jpg
+BA_768965.jpg,Basophil,big,round,unsegmented-band,low,densely,no,clear,light blue,coarse,purple,yes,PBC_dataset_normal_DIB/basophil/BA_768965.jpg
+BA_659962.jpg,Basophil,big,round,segmented-multilobed,low,densely,no,clear,light blue,coarse,purple,yes,PBC_dataset_normal_DIB/basophil/BA_659962.jpg
+BNE_615813.jpg,Neutrophil,small,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/BNE_615813.jpg
+BNE_273083.jpg,Neutrophil,small,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/BNE_273083.jpg
+MO_189430.jpg,Monocyte,small,round,unsegmented-indented,low,densely,no,frosted,purple blue,nil,nil,no,PBC_dataset_normal_DIB/monocyte/MO_189430.jpg
+BNE_164709.jpg,Neutrophil,big,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/BNE_164709.jpg
+EO_504168.jpg,Eosinophil,big,irregular,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_504168.jpg
+BNE_53949.jpg,Neutrophil,small,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/BNE_53949.jpg
+BNE_391140.jpg,Neutrophil,big,irregular,unsegmented-band,low,densely,yes,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/BNE_391140.jpg
+EO_583175.jpg,Eosinophil,big,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_583175.jpg
+BA_255913.jpg,Basophil,big,irregular,segmented-multilobed,low,densely,no,clear,light blue,coarse,purple,yes,PBC_dataset_normal_DIB/basophil/BA_255913.jpg
+BNE_324608.jpg,Neutrophil,small,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/BNE_324608.jpg
+MO_134551.jpg,Monocyte,big,round,unsegmented-indented,low,loosely,no,frosted,purple blue,nil,nil,no,PBC_dataset_normal_DIB/monocyte/MO_134551.jpg
+EO_788031.jpg,Eosinophil,small,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_788031.jpg
+BNE_768872.jpg,Neutrophil,big,irregular,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/BNE_768872.jpg
+BNE_528434.jpg,Neutrophil,small,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/BNE_528434.jpg
+SNE_603329.jpg,Neutrophil,small,round,segmented-multilobed,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/SNE_603329.jpg
+MO_889379.jpg,Monocyte,big,irregular,unsegmented-indented,low,loosely,yes,frosted,purple blue,nil,nil,no,PBC_dataset_normal_DIB/monocyte/MO_889379.jpg
+EO_69115.jpg,Eosinophil,big,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_69115.jpg
+EO_155983.jpg,Eosinophil,big,irregular,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_155983.jpg
+BNE_371756.jpg,Neutrophil,small,irregular,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/BNE_371756.jpg
+SNE_257590.jpg,Neutrophil,small,round,segmented-bilobed,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/SNE_257590.jpg
+LY_791031.jpg,Lymphocyte,small,round,unsegmented-round,high,densely,no,frosted,blue,nil,nil,no,PBC_dataset_normal_DIB/lymphocyte/LY_791031.jpg
+LY_480700.jpg,Lymphocyte,small,round,unsegmented-round,high,densely,no,clear,purple blue,nil,nil,no,PBC_dataset_normal_DIB/lymphocyte/LY_480700.jpg
+EO_673822.jpg,Eosinophil,big,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_673822.jpg
+MO_610112.jpg,Monocyte,big,irregular,unsegmented-indented,low,densely,no,frosted,blue,nil,nil,no,PBC_dataset_normal_DIB/monocyte/MO_610112.jpg
+BA_956552.jpg,Basophil,small,irregular,unsegmented-round,low,densely,no,clear,light blue,coarse,purple,yes,PBC_dataset_normal_DIB/basophil/BA_956552.jpg
+MO_344440.jpg,Monocyte,big,irregular,unsegmented-indented,low,loosely,no,frosted,blue,nil,nil,no,PBC_dataset_normal_DIB/monocyte/MO_344440.jpg
+LY_722199.jpg,Lymphocyte,small,irregular,unsegmented-round,high,densely,no,frosted,purple blue,nil,nil,no,PBC_dataset_normal_DIB/lymphocyte/LY_722199.jpg
+MO_352748.jpg,Monocyte,big,irregular,unsegmented-indented,low,loosely,yes,frosted,purple blue,nil,nil,no,PBC_dataset_normal_DIB/monocyte/MO_352748.jpg
+LY_554741.jpg,Lymphocyte,small,irregular,unsegmented-round,low,densely,no,frosted,purple blue,nil,nil,no,PBC_dataset_normal_DIB/lymphocyte/LY_554741.jpg
+SNE_982751.jpg,Neutrophil,big,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/SNE_982751.jpg
+EO_3799.jpg,Eosinophil,small,round,segmented-multilobed,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_3799.jpg
+MO_301812.jpg,Monocyte,big,irregular,unsegmented-indented,low,loosely,yes,frosted,blue,nil,nil,no,PBC_dataset_normal_DIB/monocyte/MO_301812.jpg
+MO_262114.jpg,Monocyte,big,irregular,unsegmented-indented,low,loosely,no,frosted,light blue,nil,nil,no,PBC_dataset_normal_DIB/monocyte/MO_262114.jpg
+LY_123421.jpg,Lymphocyte,small,round,unsegmented-round,high,densely,no,clear,purple blue,nil,nil,no,PBC_dataset_normal_DIB/lymphocyte/LY_123421.jpg
+MO_246145.jpg,Monocyte,big,irregular,unsegmented-indented,low,loosely,yes,frosted,light blue,nil,nil,no,PBC_dataset_normal_DIB/monocyte/MO_246145.jpg
+LY_612323.jpg,Lymphocyte,small,round,unsegmented-round,high,densely,no,clear,light blue,nil,nil,no,PBC_dataset_normal_DIB/lymphocyte/LY_612323.jpg
+EO_446449.jpg,Eosinophil,big,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_446449.jpg
+SNE_533941.jpg,Neutrophil,big,irregular,segmented-multilobed,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/SNE_533941.jpg
+EO_749539.jpg,Eosinophil,big,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_749539.jpg
+EO_255525.jpg,Eosinophil,big,irregular,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_255525.jpg
+EO_788042.jpg,Eosinophil,big,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_788042.jpg
+MO_179303.jpg,Monocyte,big,irregular,irregular,low,loosely,yes,frosted,blue,nil,nil,no,PBC_dataset_normal_DIB/monocyte/MO_179303.jpg
+EO_500493.jpg,Eosinophil,small,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_500493.jpg
+SNE_465183.jpg,Neutrophil,big,irregular,segmented-bilobed,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/SNE_465183.jpg
+LY_758422.jpg,Lymphocyte,small,round,unsegmented-indented,high,densely,no,frosted,blue,nil,nil,no,PBC_dataset_normal_DIB/lymphocyte/LY_758422.jpg
+LY_446605.jpg,Lymphocyte,small,round,unsegmented-round,high,densely,no,frosted,blue,nil,nil,no,PBC_dataset_normal_DIB/lymphocyte/LY_446605.jpg
+EO_573590.jpg,Eosinophil,big,irregular,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_573590.jpg
+BA_437113.jpg,Basophil,small,round,segmented-bilobed,low,densely,no,clear,light blue,coarse,purple,yes,PBC_dataset_normal_DIB/basophil/BA_437113.jpg
+BNE_333349.jpg,Neutrophil,small,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/BNE_333349.jpg
+BNE_473596.jpg,Neutrophil,small,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/BNE_473596.jpg
+EO_350212.jpg,Eosinophil,small,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_350212.jpg
+BNE_181280.jpg,Neutrophil,big,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/BNE_181280.jpg
+SNE_603296.jpg,Neutrophil,small,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/SNE_603296.jpg
+SNE_419387.jpg,Neutrophil,big,irregular,segmented-multilobed,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/SNE_419387.jpg
+EO_35975.jpg,Eosinophil,small,round,segmented-multilobed,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_35975.jpg
+SNE_756802.jpg,Neutrophil,big,irregular,segmented-bilobed,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/SNE_756802.jpg
+BA_285156.jpg,Basophil,small,round,unsegmented-round,low,densely,no,clear,light blue,coarse,purple,yes,PBC_dataset_normal_DIB/basophil/BA_285156.jpg
+SNE_180156.jpg,Neutrophil,big,irregular,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/SNE_180156.jpg
+EO_786059.jpg,Eosinophil,small,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_786059.jpg
+EO_824579.jpg,Eosinophil,big,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_824579.jpg
+LY_781116.jpg,Lymphocyte,small,round,unsegmented-round,high,densely,no,frosted,blue,nil,nil,no,PBC_dataset_normal_DIB/lymphocyte/LY_781116.jpg
+LY_384251.jpg,Lymphocyte,small,round,unsegmented-round,high,densely,no,clear,purple blue,nil,nil,no,PBC_dataset_normal_DIB/lymphocyte/LY_384251.jpg
+LY_133266.jpg,Lymphocyte,small,irregular,unsegmented-round,high,densely,no,frosted,blue,nil,nil,no,PBC_dataset_normal_DIB/lymphocyte/LY_133266.jpg
+MO_45274.jpg,Monocyte,big,round,unsegmented-indented,low,loosely,yes,frosted,blue,nil,nil,no,PBC_dataset_normal_DIB/monocyte/MO_45274.jpg
+BNE_436813.jpg,Neutrophil,big,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/BNE_436813.jpg
+EO_402565.jpg,Eosinophil,big,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_402565.jpg
+BNE_749441.jpg,Neutrophil,big,irregular,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/BNE_749441.jpg
+EO_490251.jpg,Eosinophil,small,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_490251.jpg
+BA_457610.jpg,Basophil,small,round,segmented-bilobed,low,densely,no,clear,light blue,coarse,purple,yes,PBC_dataset_normal_DIB/basophil/BA_457610.jpg
+EO_795119.jpg,Eosinophil,small,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_795119.jpg
+EO_410004.jpg,Eosinophil,small,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_410004.jpg
+BA_879878.jpg,Basophil,big,irregular,unsegmented-band,low,densely,no,clear,light blue,coarse,purple,yes,PBC_dataset_normal_DIB/basophil/BA_879878.jpg
+BA_19779.jpg,Basophil,small,round,segmented-multilobed,low,densely,no,clear,light blue,coarse,purple,yes,PBC_dataset_normal_DIB/basophil/BA_19779.jpg
+LY_310482.jpg,Lymphocyte,small,round,unsegmented-round,high,densely,no,frosted,blue,nil,nil,no,PBC_dataset_normal_DIB/lymphocyte/LY_310482.jpg
+BA_870464.jpg,Basophil,small,round,unsegmented-band,low,densely,no,clear,light blue,coarse,purple,yes,PBC_dataset_normal_DIB/basophil/BA_870464.jpg
+EO_190201.jpg,Eosinophil,small,round,segmented-multilobed,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_190201.jpg
+EO_379318.jpg,Eosinophil,small,round,segmented-multilobed,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_379318.jpg
+BNE_129921.jpg,Neutrophil,small,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/BNE_129921.jpg
+BNE_554685.jpg,Neutrophil,big,irregular,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/BNE_554685.jpg
+SNE_874551.jpg,Neutrophil,small,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/SNE_874551.jpg
+LY_442238.jpg,Lymphocyte,small,round,unsegmented-round,high,densely,no,frosted,blue,nil,nil,no,PBC_dataset_normal_DIB/lymphocyte/LY_442238.jpg
+LY_752478.jpg,Lymphocyte,small,round,unsegmented-round,high,densely,no,frosted,blue,nil,nil,no,PBC_dataset_normal_DIB/lymphocyte/LY_752478.jpg
+EO_944985.jpg,Eosinophil,small,round,unsegmented-band,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_944985.jpg
+EO_315883.jpg,Eosinophil,small,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_315883.jpg
+EO_557988.jpg,Eosinophil,big,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_557988.jpg
+MO_216299.jpg,Monocyte,big,irregular,irregular,low,loosely,yes,frosted,purple blue,nil,nil,no,PBC_dataset_normal_DIB/monocyte/MO_216299.jpg
+MO_678002.jpg,Monocyte,big,irregular,irregular,low,densely,yes,frosted,purple blue,nil,nil,no,PBC_dataset_normal_DIB/monocyte/MO_678002.jpg
+BNE_225758.jpg,Neutrophil,big,irregular,unsegmented-band,low,densely,yes,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/BNE_225758.jpg
+EO_116336.jpg,Eosinophil,small,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_116336.jpg
+EO_483841.jpg,Eosinophil,small,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_483841.jpg
+BNE_358306.jpg,Neutrophil,big,round,unsegmented-band,low,densely,no,clear,light blue,small,purple,yes,PBC_dataset_normal_DIB/neutrophil/BNE_358306.jpg
+EO_642891.jpg,Eosinophil,big,irregular,segmented-multilobed,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_642891.jpg
+BNE_565424.jpg,Neutrophil,small,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/BNE_565424.jpg
+EO_303404.jpg,Eosinophil,big,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_303404.jpg
+SNE_780200.jpg,Neutrophil,small,round,segmented-bilobed,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/SNE_780200.jpg
+MO_701687.jpg,Monocyte,big,irregular,unsegmented-indented,low,loosely,yes,frosted,blue,nil,nil,no,PBC_dataset_normal_DIB/monocyte/MO_701687.jpg
+EO_991521.jpg,Eosinophil,big,round,segmented-bilobed,low,densely,yes,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_991521.jpg
+BNE_38320.jpg,Neutrophil,small,irregular,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/BNE_38320.jpg
+SNE_371956.jpg,Neutrophil,big,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/SNE_371956.jpg
+EO_943221.jpg,Eosinophil,small,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_943221.jpg
+EO_921575.jpg,Eosinophil,big,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_921575.jpg
+MO_23087.jpg,Monocyte,big,round,unsegmented-indented,low,loosely,yes,frosted,purple blue,nil,nil,no,PBC_dataset_normal_DIB/monocyte/MO_23087.jpg
+BA_305833.jpg,Basophil,small,round,irregular,low,densely,no,clear,light blue,coarse,purple,yes,PBC_dataset_normal_DIB/basophil/BA_305833.jpg
+BNE_540699.jpg,Neutrophil,small,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/BNE_540699.jpg
+BA_949913.jpg,Basophil,small,round,segmented-bilobed,low,densely,no,clear,light blue,coarse,purple,yes,PBC_dataset_normal_DIB/basophil/BA_949913.jpg
+LY_670000.jpg,Lymphocyte,small,round,unsegmented-round,high,densely,no,frosted,blue,nil,nil,no,PBC_dataset_normal_DIB/lymphocyte/LY_670000.jpg
+BA_936898.jpg,Basophil,small,round,segmented-bilobed,low,densely,no,clear,light blue,coarse,purple,yes,PBC_dataset_normal_DIB/basophil/BA_936898.jpg
+SNE_43921.jpg,Neutrophil,big,irregular,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/SNE_43921.jpg
+LY_815802.jpg,Lymphocyte,small,irregular,unsegmented-round,high,densely,no,frosted,purple blue,nil,nil,no,PBC_dataset_normal_DIB/lymphocyte/LY_815802.jpg
+BNE_556085.jpg,Neutrophil,big,irregular,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/BNE_556085.jpg
+EO_552215.jpg,Eosinophil,big,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_552215.jpg
+BA_163898.jpg,Basophil,big,irregular,irregular,low,densely,no,clear,light blue,coarse,purple,yes,PBC_dataset_normal_DIB/basophil/BA_163898.jpg
+EO_816467.jpg,Eosinophil,big,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_816467.jpg
+SNE_934241.jpg,Neutrophil,big,round,segmented-multilobed,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/SNE_934241.jpg
+SNE_310817.jpg,Neutrophil,big,round,segmented-bilobed,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/SNE_310817.jpg
+LY_357552.jpg,Lymphocyte,small,irregular,irregular,high,densely,no,clear,purple blue,nil,nil,no,PBC_dataset_normal_DIB/lymphocyte/LY_357552.jpg
+SNE_815811.jpg,Neutrophil,big,irregular,unsegmented-band,low,densely,yes,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/SNE_815811.jpg
+BNE_980007.jpg,Neutrophil,big,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/BNE_980007.jpg
+BNE_193611.jpg,Neutrophil,small,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/BNE_193611.jpg
+MO_218905.jpg,Monocyte,big,round,unsegmented-indented,low,loosely,no,frosted,purple blue,nil,nil,no,PBC_dataset_normal_DIB/monocyte/MO_218905.jpg
+EO_514883.jpg,Eosinophil,small,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_514883.jpg
+SNE_313880.jpg,Neutrophil,big,irregular,segmented-bilobed,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/SNE_313880.jpg
+LY_733471.jpg,Lymphocyte,small,round,unsegmented-round,high,densely,no,frosted,blue,nil,nil,no,PBC_dataset_normal_DIB/lymphocyte/LY_733471.jpg
+BNE_839282.jpg,Neutrophil,small,round,segmented-multilobed,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/BNE_839282.jpg
+MO_236347.jpg,Monocyte,big,irregular,unsegmented-indented,low,loosely,yes,clear,purple blue,nil,nil,no,PBC_dataset_normal_DIB/monocyte/MO_236347.jpg
+EO_540748.jpg,Eosinophil,big,round,unsegmented-band,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_540748.jpg
+SNE_864961.jpg,Neutrophil,big,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/SNE_864961.jpg
+MO_551084.jpg,Monocyte,big,irregular,unsegmented-indented,low,loosely,no,clear,blue,nil,nil,no,PBC_dataset_normal_DIB/monocyte/MO_551084.jpg
+EO_417637.jpg,Eosinophil,small,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_417637.jpg
+BNE_596393.jpg,Neutrophil,big,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/BNE_596393.jpg
+SNE_333218.jpg,Neutrophil,big,round,segmented-multilobed,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/SNE_333218.jpg
+BA_681430.jpg,Basophil,small,round,unsegmented-band,low,densely,no,clear,light blue,coarse,purple,yes,PBC_dataset_normal_DIB/basophil/BA_681430.jpg
+EO_526408.jpg,Eosinophil,big,round,unsegmented-band,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_526408.jpg
+BNE_962214.jpg,Neutrophil,small,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/BNE_962214.jpg
+LY_921451.jpg,Lymphocyte,small,round,unsegmented-round,high,densely,no,clear,blue,nil,nil,no,PBC_dataset_normal_DIB/lymphocyte/LY_921451.jpg
+BNE_707427.jpg,Neutrophil,big,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/BNE_707427.jpg
+EO_150174.jpg,Eosinophil,big,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_150174.jpg
+BNE_596329.jpg,Neutrophil,big,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/BNE_596329.jpg
+EO_166091.jpg,Eosinophil,small,round,segmented-multilobed,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_166091.jpg
+BA_991965.jpg,Basophil,small,round,segmented-bilobed,low,densely,no,clear,light blue,coarse,purple,yes,PBC_dataset_normal_DIB/basophil/BA_991965.jpg
+EO_366584.jpg,Eosinophil,big,irregular,segmented-multilobed,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_366584.jpg
+BA_38810.jpg,Basophil,big,round,segmented-bilobed,low,densely,no,clear,light blue,coarse,purple,yes,PBC_dataset_normal_DIB/basophil/BA_38810.jpg
+EO_663412.jpg,Eosinophil,small,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_663412.jpg
+MO_659296.jpg,Monocyte,big,irregular,irregular,low,densely,yes,frosted,purple blue,nil,nil,no,PBC_dataset_normal_DIB/monocyte/MO_659296.jpg
+BNE_951815.jpg,Neutrophil,small,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/BNE_951815.jpg
+MO_362118.jpg,Monocyte,small,irregular,unsegmented-indented,high,densely,no,frosted,purple blue,nil,nil,no,PBC_dataset_normal_DIB/monocyte/MO_362118.jpg
+BA_961470.jpg,Basophil,small,round,irregular,low,densely,no,clear,light blue,coarse,purple,yes,PBC_dataset_normal_DIB/basophil/BA_961470.jpg
+BNE_249469.jpg,Neutrophil,small,round,unsegmented-band,low,densely,no,clear,light blue,small,purple,yes,PBC_dataset_normal_DIB/neutrophil/BNE_249469.jpg
+EO_230805.jpg,Eosinophil,small,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_230805.jpg
+EO_910069.jpg,Eosinophil,small,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_910069.jpg
+EO_66567.jpg,Eosinophil,big,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_66567.jpg
+EO_466996.jpg,Eosinophil,small,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_466996.jpg
+MO_146598.jpg,Monocyte,big,irregular,irregular,low,loosely,yes,frosted,blue,nil,nil,no,PBC_dataset_normal_DIB/monocyte/MO_146598.jpg
+BA_124938.jpg,Basophil,small,round,irregular,low,densely,no,clear,light blue,coarse,purple,yes,PBC_dataset_normal_DIB/basophil/BA_124938.jpg
+LY_217524.jpg,Lymphocyte,small,irregular,unsegmented-round,high,densely,no,clear,blue,nil,nil,no,PBC_dataset_normal_DIB/lymphocyte/LY_217524.jpg
+EO_25947.jpg,Eosinophil,big,round,segmented-bilobed,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_25947.jpg
+SNE_159393.jpg,Neutrophil,big,round,unsegmented-band,low,densely,no,clear,light blue,small,pink,yes,PBC_dataset_normal_DIB/neutrophil/SNE_159393.jpg
+MO_569269.jpg,Monocyte,small,round,unsegmented-indented,low,loosely,no,frosted,purple blue,nil,nil,no,PBC_dataset_normal_DIB/monocyte/MO_569269.jpg
+EO_2755.jpg,Eosinophil,small,round,segmented-multilobed,low,densely,no,clear,light blue,round,red,yes,PBC_dataset_normal_DIB/eosinophil/EO_2755.jpg
