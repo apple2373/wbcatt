@@ -3,7 +3,7 @@
 
 This is the official repository for the WBCAtt dataset.
 - Dataset and code is [here](./submission/). 
--  Satoshi Tsutsui, Winnie Pang, and Bihan Wen. WBCAtt: A White Blood Cell Dataset Annotated with Detailed Morphological Attributes.  Advances in Neural Information Processing Systems (NeurIPS).
+-  Satoshi Tsutsui, Winnie Pang, and Bihan Wen. WBCAtt: A White Blood Cell Dataset Annotated with Detailed Morphological Attributes.  Advances in Neural Information Processing Systems (NeurIPS) 2023.
 - We've annotated 113k labels (11 attributes x 10.3k images) on white blood cell images, detailing the fine-grained concepts pathologists recognize. Annotating at this level of detail and scale is unprecedented, offering unique value to AI in pathology. Please refere to the paper below for more details. 
 
 ## Reference
