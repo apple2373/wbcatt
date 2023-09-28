@@ -267,7 +267,7 @@ def main(args):
         log["trainining"] = training_logs
         save_json(log, log_path)
 
-    print("Best Epoch", best_epoch)
+    print("Best Epoch", best_epoch + 1)
     # Evaluate the bestval model on the test set
     # Load the model from memory to CPU and then send to GPU
     model_in_cpu = torch.load(model_data_in_memory, map_location="cpu")
