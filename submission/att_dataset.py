@@ -2,7 +2,7 @@ import os
 import pandas as pd
 import torch
 from torch.utils.data import Dataset
-from torchvision.datasets.folder import torchvision
+from torchvision.datasets.folder import default_loader
 
 
 class AttDataset(Dataset):
