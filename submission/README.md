@@ -1,5 +1,7 @@
 # WBC Attribute Prediction
 
+- April 2, 2024. Added pretrained models to replicate the reported results +  some minor updates.
+
 ## Environment
 We use pytorch version 2.0.0 with python 3.8.16. See `requirements.txt` for details.
 
@@ -21,3 +23,10 @@ python traineval.py  --help
 python traineval.py  --image_dir ./data/PBC # make sure to adjust the place of the PBC dataset.
 ```
 Note: Please make sure to adjust the args and any other details based on your specific setup.
+
+## Pretrained Model
+- https://www.dropbox.com/scl/fi/clewulqq4qkuk9cusrttm/resnet50_6c33f0.pth?rlkey=wp2qf0z2jt95npnq46d9xy61k&dl=0
+    - md5hash: `6c33f0659662efffb3ed5f91d63abbee`
+    - The model is trained by `python traineval.py --seed 2 --use_eval_mode`
+- `python traineval.py --resume resnet50_6c33f0.pth --epochs 0`
+	- This should give the results of `acc: 94.09, f1_macro: 91.27, pre_macro: 90.86, rec_macro: 91.77`
